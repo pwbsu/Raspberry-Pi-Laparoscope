@@ -1,0 +1,209 @@
+\begin{thebibliography}{27}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\edef\AFRstr{\string afrikaans}
+\ifx\AFRstr\languagename
+   \input{stb-bib.afr}%
+ \else
+   \input{stb-bib.eng}%
+\fi
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{arducam.com}(2020)}]{AC-RP}
+\bibnamefont{arducam.com} (2020).
+\newblock Arducam 12mp*2 synchronized stereo camera bundle kit for raspberry pi
+  and pi zero, two 12.3mp 477p camera modules with cs lens and camarray stereo
+  camera hat.
+\newblock \bbltechrep{}, ArduCam.
+\newline\bblurlpre\url{https://www.arducam.com/arducam-12mp2-synchronized-stereo-camera-bundle-kit-for-raspberry-pi-two-12-3mp-imx477-camera-modules-with-cs-lens-and-arducam-camarray-stereo-camera-hat.html}
+
+\bibitem[{\citenamefont{Buia} \emph{\bbletal{}}(2015)\citenamefont{Buia},
+  \citenamefont{Stockhausen} \protect\BIBand{}
+  \citenamefont{Hanisch}}]{WJM-2015}
+\bibnamefont{Buia}, \bibfnamefont{A.}, \bibnamefont{Stockhausen},
+  \bibfnamefont{F.} \protect\BIBand{} \bibnamefont{Hanisch}, \bibfnamefont{E.}
+  (2015).
+\newblock Laparoscopic surgery: A qualified systematic review.
+\newblock \emph{World J Methodol}, \bblvol{}~5, \bblno{}~4, \bblp{} 238–54.
+
+\bibitem[{\citenamefont{cambridgeincolour.com}(2020{\natexlab{\emph{a}}})}]{CC-CE}
+\bibnamefont{cambridgeincolour.com} (2020{\natexlab{\emph{a}}}).
+\newblock Camera exposure.
+\newblock \bbltechrep{}, Cambridge in Colour.
+\newline\bblurlpre\url{https://www.cambridgeincolour.com/tutorials/camera-exposure.htm}
+
+\bibitem[{\citenamefont{cambridgeincolour.com}(2020{\natexlab{\emph{b}}})}]{CC-DCS}
+\bibnamefont{cambridgeincolour.com} (2020{\natexlab{\emph{b}}}).
+\newblock Digital camera sensors.
+\newblock \bbltechrep{}, Cambridge in Colour.
+\newline\bblurlpre\url{https://www.cambridgeincolour.com/tutorials/camera-sensors.htm}
+
+\bibitem[{\citenamefont{camemake.eu}(2026{\natexlab{\emph{a}}})}]{CM-ECM}
+\bibnamefont{camemake.eu} (2026{\natexlab{\emph{a}}}).
+\newblock Endoscope camera module.
+\newblock \bbltechrep{}, Motoshot Technology Co., Ltd.
+\newline\bblurlpre\url{https://www.camemake.com/endoscope-camera-module/}
+
+\bibitem[{\citenamefont{camemake.eu}(2026{\natexlab{\emph{b}}})}]{CM-HP}
+\bibnamefont{camemake.eu} (2026{\natexlab{\emph{b}}}).
+\newblock Home page.
+\newblock \bbltechrep{}, Motoshot Technology Co., Ltd.
+\newline\bblurlpre\url{https://www.camemake.eu/}
+
+\bibitem[{\citenamefont{cameramodule.com}(2026)}]{SF-AU}
+\bibnamefont{cameramodule.com} (2026).
+\newblock About us.
+\newblock \bbltechrep{}, Guangzhou Sincere Informtation Technology Ltd.
+\newline\bblurlpre\url{https://www.cameramodule.com/about-us}
+
+\bibitem[{\citenamefont{docs.arduino.cc}(2026)}]{A-DOC}
+\bibnamefont{docs.arduino.cc} (2026).
+\newblock Language reference.
+\newblock \bbltechrep{}, Arduino AG.
+\newline\bblurlpre\url{https://docs.arduino.cc/language-reference/#structure}
+
+\bibitem[{\citenamefont{ebme.co.uk}(2026)}]{EBME-2026}
+\bibnamefont{ebme.co.uk} (2026).
+\newblock Endoscope design and assembly.
+\newblock \bbltechrep{}, EBME and Clinical Engineering Articles.
+\newline\bblurlpre\url{https://www.ebme.co.uk/articles/clinical-engineering/endoscope-design-and-assembly}
+
+\bibitem[{\citenamefont{iadiy.com}(2026)}]{I-E}
+\bibnamefont{iadiy.com} (2026).
+\newblock Endoscope camera module 0.3m - scm03m30d5.5u.
+\newblock \bbltechrep{}, IADIY Technology.
+\newline\bblurlpre\url{https://www.iadiy.com/endoscope-camera-module-SCM1M30D5.5U}
+
+\bibitem[{\citenamefont{Ibrahim} \emph{\bbletal{}}(2021)\citenamefont{Ibrahim},
+  \citenamefont{Ulrich}, \citenamefont{Liselotte}, \citenamefont{Julian},
+  \citenamefont{Nicolai}, \citenamefont{Matthias}, \citenamefont{Georgios},
+  \citenamefont{Antonio~Simone} \protect\BIBand{}
+  \citenamefont{Damaris}}]{FIS-2021}
+\bibnamefont{Ibrahim}, \bibfnamefont{A.}, \bibnamefont{Ulrich},
+  \bibfnamefont{M.}, \bibnamefont{Liselotte}, \bibfnamefont{M.},
+  \bibnamefont{Julian}, \bibfnamefont{P.}, \bibnamefont{Nicolai},
+  \bibfnamefont{M.}, \bibnamefont{Matthias}, \bibfnamefont{B.},
+  \bibnamefont{Georgios}, \bibfnamefont{G.}, \bibnamefont{Antonio~Simone},
+  \bibfnamefont{L.} \protect\BIBand{} \bibnamefont{Damaris}, \bibfnamefont{F.}
+  (2021).
+\newblock The development of laparoscopy—a historical overview.
+\newblock \emph{Frontiers in surgery}, \bblvol{}~8.
+
+\bibitem[{\citenamefont{intuitive.com}(2026)}]{IS-SP}
+\bibnamefont{intuitive.com} (2026).
+\newblock Da vinci sp.
+\newblock \bbltechrep{}, Intuitive Surgical.
+\newline\bblurlpre\url{https://www.intuitive.com/en-us/products-and-services/da-vinci/sp}
+
+\bibitem[{\citenamefont{karlstorz.com}(2026{\natexlab{\emph{a}}})}]{KSE-HP}
+\bibnamefont{karlstorz.com} (2026{\natexlab{\emph{a}}}).
+\newblock Home page.
+\newblock \bbltechrep{}, Karl Storz - Endoskope.
+\newline\bblurlpre\url{https://www.karlstorz.com/de/en/index.htm}
+
+\bibitem[{\citenamefont{karlstorz.com}(2026{\natexlab{\emph{b}}})}]{KSE-TR}
+\bibnamefont{karlstorz.com} (2026{\natexlab{\emph{b}}}).
+\newblock Tipcam1 rubina.
+\newblock \bbltechrep{}, Karl Storz - Endoskope.
+\newline\bblurlpre\url{https://www.karlstorz.com/za/en/product-detail-page.htm?productID=1000108799&cat=1000122034&etcc_cu=onsite&etcc_med_onsite=Search-OnlineCatalog-Overlay&etcc_cmp_onsite=Search-Overlay&etcc_st_onsite=Tipcam%20Rubina}
+
+\bibitem[{\citenamefont{leopardimaging.com}(2026)}]{LI-P}
+\bibnamefont{leopardimaging.com} (2026).
+\newblock Hummingbird mobile camera modules.
+\newblock \bbltechrep{}, Leopard Imaging.
+\newline\bblurlpre\url{https://leopardimaging.com/hummingbird/}
+
+\bibitem[{\citenamefont{mechatronicslab.net}(2026)}]{ML-USB}
+\bibnamefont{mechatronicslab.net} (2026).
+\newblock How to use a usb camera with raspberry pi: A complete guide.
+\newblock \bbltechrep{}, MechatronicsLab.
+\newline\bblurlpre\url{https://mechatronicslab.net/usb-camera-with-raspberry-pi/}
+
+\bibitem[{\citenamefont{Morrow}(2026)}]{DM-FOW}
+\bibnamefont{Morrow}, \bibfnamefont{D.} (2026).
+\newblock Ultimate depth of field photography guide [2026].
+\newblock \bbltechrep{}, Dave Morrow Photography.
+\newline\bblurlpre\url{https://www.davemorrowphotography.com/depth-of-field-photography}
+
+\bibitem[{\citenamefont{olympus.com.au}(2026)}]{OC-E}
+\bibnamefont{olympus.com.au} (2026).
+\newblock Endoeye 3d 10 mm.
+\newblock \bbltechrep{}, Olympus Corporation.
+\newline\bblurlpre\url{https://www.olympus.com.au/medical/en/Products-and-Solutions/Products/Product/ENDOEYE-3D-10-mm.html}
+
+\bibitem[{\citenamefont{Public}(2022)}]{GH-AA}
+\bibnamefont{Public} (2022).
+\newblock Arducam/arduino.
+\newblock \bbltechrep{}, Github.com.
+\newline\bblurlpre\url{https://github.com/ArduCAM/Arduino}
+
+\bibitem[{\citenamefont{raspberrypi.com}(2026{\natexlab{\emph{a}}})}]{RP-DOC}
+\bibnamefont{raspberrypi.com} (2026{\natexlab{\emph{a}}}).
+\newblock Documentation.
+\newblock \bbltechrep{}, Raspberry Pi Ltd.
+\newline\bblurlpre\url{https://www.raspberrypi.com/documentation/}
+
+\bibitem[{\citenamefont{raspberrypi.com}(2026{\natexlab{\emph{b}}})}]{RP-P}
+\bibnamefont{raspberrypi.com} (2026{\natexlab{\emph{b}}}).
+\newblock Products.
+\newblock \bbltechrep{}, Raspberry Pi Ltd.
+\newline\bblurlpre\url{https://www.raspberrypi.com/products/}
+
+\bibitem[{\citenamefont{sincerefirst.com}(2026)}]{SF-CM}
+\bibnamefont{sincerefirst.com} (2026).
+\newblock Sincerefirst camera modules.
+\newblock \bbltechrep{}, Guangzhou Sincere Information Technology Ltd.
+\newline\bblurlpre\url{https://www.sincerefirst.com/camera-modules}
+
+\bibitem[{\citenamefont{store.arduino.cc}(2026)}]{A-P}
+\bibnamefont{store.arduino.cc} (2026).
+\newblock Products.
+\newblock \bbltechrep{}, Arduino AG.
+\newline\bblurlpre\url{https://store.arduino.cc/products}
+
+\bibitem[{\citenamefont{Subido} \emph{\bbletal{}}(2018)\citenamefont{Subido},
+  \citenamefont{Pacis} \protect\BIBand{} \citenamefont{Bugtai}}]{AIP-2018}
+\bibnamefont{Subido}, \bibfnamefont{Edwin D.~C., J.}, \bibnamefont{Pacis},
+  \bibfnamefont{D.M.M.} \protect\BIBand{} \bibnamefont{Bugtai},
+  \bibfnamefont{N.T.} (2018).
+\newblock Recent technological advancements in laparoscopic surgical
+  instruments.
+\newblock \emph{AIP Conference Proceedings}, \bblvol{} 1933, \bblno{}~1.
+
+\bibitem[{\citenamefont{uk.mathworks.com}(2021)}]{MW-TS}
+\bibnamefont{uk.mathworks.com} (2021).
+\newblock Analysis and visualization in thingspeak | iot from data to action,
+  part 3.
+\newblock \bbltechrep{}, MathWorks.
+\newline\bblurlpre\url{https://uk.mathworks.com/videos/iot-from-data-to-action-part-3-analysis-and-visualization-in-thingspeak-1636518392837.html}
+
+\bibitem[{\citenamefont{Xiao} \emph{\bbletal{}}(2014)\citenamefont{Xiao},
+  \citenamefont{Jakimowicz}, \citenamefont{Albayrak}, \citenamefont{Buzink},
+  \citenamefont{Botden} \protect\BIBand{} \citenamefont{Goossens}}]{JSE-2014}
+\bibnamefont{Xiao}, \bibfnamefont{D.}, \bibnamefont{Jakimowicz},
+  \bibfnamefont{J.J.}, \bibnamefont{Albayrak}, \bibfnamefont{A.},
+  \bibnamefont{Buzink}, \bibfnamefont{S.N.}, \bibnamefont{Botden},
+  \bibfnamefont{S.M.B.I.} \protect\BIBand{} \bibnamefont{Goossens},
+  \bibfnamefont{R.H.M.} (2014).
+\newblock Face, content, and construct validity of a novel portable ergonomic
+  simulator for basic laparoscopic skills.
+\newblock \emph{Journal of surgical education}, \bblvol{}~71, \bblno{}~1,
+  \bblp{} 65–72.
+
+\bibitem[{\citenamefont{Yu}(2026)}]{VS-LW}
+\bibnamefont{Yu}, \bibfnamefont{J.} (2026).
+\newblock Latex workshop.
+\newblock \bbltechrep{}, Visual Studio.
+\newline\bblurlpre\url{https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop}
+
+\end{thebibliography}

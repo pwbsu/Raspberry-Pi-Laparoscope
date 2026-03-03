@@ -1,0 +1,80 @@
+                    The Stellenbosch-2 bundle v2.0
+     for typesetting dissertations, theses and reports of the
+              Stellenbosch University, South Africa.
+
+Author:   Danie Els
+Copyright (c) 2023 Stellenbosch University
+Licence:  Creative Commons License (CC BY 4.0)
+
+The original Stellenbosch/usthesis packages will remain on CTAN for 
+typesetting of legacy documents.
+
+
+DESCRIPTION
+===========
+
+The Stellenbosch-2 bundle consists of the following:
+
+stb-thesis.cls (stb-thesis.afr, stb-thesis.eng)
+
+    A class that is primarily concerned with the formatting of Stellenbosch 
+    University thesis and dissertation front matter such as the title page, 
+    abstract, etc. It also works together with the babel package to provide 
+    language language options to typeset documents in Afrikaans or in English. 
+    The class file stb-thesis.cls is based on the standard LaTeX book class.
+
+stb-bib.sty (stb-bib-eng-a.bst, stb-bib-eng-n.bst)
+
+    A BibTeX package for the formatting of bibliographic references of theses.
+    This package is tailored towards citations and bibliographical formatting 
+    for the natural sciences and engineering.
+
+stb-titlepage.sty
+
+    A package that redefine the standard title page of the LaTeX classes to add
+    a logo at the top and an address line below the author. It is intended for 
+    use when writing general notes and articles.
+
+stb-beamer-a.sty, stb-beamer-b.sty
+
+    Style files to produce presentations with the Stellenbosch University logos 
+    and colours.
+
+stb-nomencl.sty
+
+    Simple utility to set a nomenclature or list of symbols.
+
+Templates
+
+    Templates are provide for Stellenbosch theses, dissertations and 
+    presentations as well as for a final year M&M project. 
+
+
+BASIC INSTALLATION
+====================
+
+ For a basic installation on a TDS compliant system, move the
+ following files to the following directories:
+
+    <texmf>/bibtex/bst/stellenbosch-2/
+        stb-bib-eng-a.bst.
+        stb-bib-eng-n.bst.
+ 
+    <texmf>/tex/latex/stellenbosch-2/
+        stb-beamer-a.sty.
+        stb-beamer-b.sty.
+        stb-thesis.cls.
+        stb-thesis.afr.
+        stb-thesis.eng.
+        stb-bib.sty.
+        stb-bib.afr.
+        stb-bib.eng.
+        stb-titlepage.sty.
+        stb-nomencl.sty.
+    <texmf>/tex/latex/stellenbosch-2/figs/
+        All the graphics and figures ...
+
+A full installation with source code and documentation can be
+obtained by unzipping stellenbosch-2.tds.zip in your <(local) texmf>
+directory.
+

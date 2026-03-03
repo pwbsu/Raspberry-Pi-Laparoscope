@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Skripsie" company="Stellenbosch University, Engineering Facaulty, Mechanical and Mechatronic Department" webLink="http://" view-date="2026-03-01" view-index="0" gantt-divider-location="392" resource-divider-location="300" version="3.3.3322" locale="en_ZA">
+    <description><![CDATA[This gannt chart will show the schedule for the skripise topic: Raspberry Pi Laparoscope.
+
+Student number: 26122146
+Student initails and surname: PW Breytenbach]]></description>
+    <view zooming-state="default:1" id="gantt-chart">
+        <field id="tpd3" name="Name" width="302" order="0"/>
+        <field id="tpd4" name="Begin date" width="20" order="1"/>
+        <field id="tpd5" name="End date" width="54" order="2"/>
+        <field id="tpd15" name="Notes" width="20" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="filter.dueTodayTasks" value="false"/>
+        <option id="filter.overdueTasks" value="false"/>
+        <option id="filter.inProgressTodayTasks" value="false"/>
+        <option id="color.recent"><![CDATA[#ff9999 #9966ff #ffff33 #ff9900 #cc00cc #00ffff #ff0033 #0000ff #33ff33]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" uid="ca13df2affe3414b90a2f5a5bd68feb3" name="Literature Review" meeting="false" start="2026-03-03" duration="3" complete="16" expand="true">
+            <depend id="4" type="2" difference="0" hardness="Strong"/>
+            <depend id="10" type="2" difference="0" hardness="Strong"/>
+            <task id="1" uid="2b937f4638f64b2c9bc150384f120721" name="Review Previous Literature" meeting="false" start="2026-03-03" duration="1" complete="50" expand="true">
+                <notes><![CDATA[Review the current literature review and make notes of areas that lack clarity. Proceed with more research filling that gap.
+
+]]></notes>
+                <depend id="2" type="2" difference="0" hardness="Strong"/>
+                <depend id="72" type="2" difference="0" hardness="Strong"/>
+                <depend id="78" type="2" difference="0" hardness="Strong"/>
+                <depend id="86" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="2" uid="811fd007c22d4412bf4ffeee09c0793d" name="Review Current Laparoscope Specifiations" meeting="false" start="2026-03-04" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Review current laparoscopes used during operations. Find out all the specifications of them. ]]></notes>
+                <depend id="3" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="3" uid="23a9114e53b2463aaa0ef887ca70ff90" name="Review Testing Laparoscope Specifications" meeting="false" start="2026-03-05" duration="1" complete="0" expand="true">
+                <depend id="5" type="2" difference="0" hardness="Strong"/>
+                <depend id="11" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="4" uid="a8fa6207a8e14ef89c9456a476e19f76" name="Component Review" meeting="false" start="2026-03-06" duration="5" complete="0" expand="true">
+            <depend id="18" type="2" difference="0" hardness="Strong"/>
+            <task id="5" uid="f5ce84ef5fd943eda4ce6cd68783ab21" name="Review Camera modules" color="#33ff33" meeting="false" start="2026-03-06" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Review the available camera modules and itemize them. Create tables with all the camera that can work for this project:
+
+1) Include all specifications of the modules.
+
+2) Local suppliers of the modules.
+
+3) Estimated times till deliveries if applicable.]]></notes>
+                <depend id="6" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="6" uid="7d89dbc6057d4efa83b7c75349096047" name="Review Single Board Computers" color="#33ff33" meeting="false" start="2026-03-09" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Review all the possible Single Board Computers for this project. This includes a table with:
+
+1) Specifiactions of the SBC modules.
+
+2) Local suppliers of the modules.]]></notes>
+                <depend id="7" type="2" difference="0" hardness="Strong"/>
+                <depend id="8" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="7" uid="da1786835b83466792b1c8d043b16c28" name="Review Illumination Modules" color="#33ff33" meeting="false" start="2026-03-10" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Review Illumination Modules for this project. This include a table with the following information:
+
+1) Specification of the different modules.
+
+2) Local suppliers
+]]></notes>
+                <depend id="9" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="8" uid="7a3445bf8e604e53b97707a6fc3c9bb0" name="Review Monitor Module" color="#33ff33" meeting="false" start="2026-03-10" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Review available monitor modules for this project. Proceed to give this information in table format:
+
+1) Specification of the different modules.
+
+2) Local suppliers.]]></notes>
+                <depend id="9" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="9" uid="23b4564369c44994b8a1143795bc89d2" name="Review Software interfaces" color="#33ff33" meeting="false" start="2026-03-11" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Review the different interfaces that can be used for this project between the different components. This includes:
+
+1) Diagrams that shows the interfaces between the different modules.]]></notes>
+                <depend id="19" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="10" uid="65f83cbde1f847a2b368ba864921c834" name="Compile Design Requirements for Laparoscope" meeting="false" start="2026-03-06" duration="5" complete="0" expand="true">
+            <depend id="18" type="2" difference="0" hardness="Strong"/>
+            <task id="11" uid="4eda0ffbc3cf4c789f8a87a9028b4200" name="Problem Defintion" color="#0000ff" meeting="false" start="2026-03-06" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Write the problem definition of the laparoscope design requirements]]></notes>
+                <depend id="12" type="2" difference="0" hardness="Strong"/>
+                <depend id="15" type="2" difference="0" hardness="Strong"/>
+                <depend id="73" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="12" uid="f13f70399ee04d739919e2b033e1a3b3" name="Determine Stakeholder Requirements" color="#0000ff" meeting="false" start="2026-03-07" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the stakeholder requirements of the laparoscope project]]></notes>
+                <depend id="13" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="15" uid="0d1f537b3b1848b2bebbae33f47a412e" name="Determine Design Independent Parameters" color="#0000ff" meeting="false" start="2026-03-07" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the DIP for the system.]]></notes>
+                <depend id="13" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="13" uid="c0ea50aec3cf441fbf8c9c73ece0ab40" name="Determine Boundary of the System" color="#0000ff" meeting="false" start="2026-03-09" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the boundaries of the narrower system of interest and wider system of interest.]]></notes>
+                <depend id="14" type="2" difference="0" hardness="Strong"/>
+                <depend id="16" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="14" uid="27aa80d32a7b4621bb00f1be2e5117a2" name="Determine Functional Requirements" color="#0000ff" meeting="false" start="2026-03-10" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the funtional requirements of the laparoscope]]></notes>
+                <depend id="17" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="16" uid="fd6eff5345074ebea185820a4765313d" name="Determine Non-functional Requirements" color="#0000ff" meeting="false" start="2026-03-10" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the Non-Functional Requirements of the laparoscope system]]></notes>
+                <depend id="17" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="17" uid="b2367faf869d4dcb876c6de97a35be4a" name="Determine the Technical Performance Measures" color="#0000ff" meeting="false" start="2026-03-11" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the TPMs of the laparoscope]]></notes>
+                <depend id="19" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="18" uid="3b045f1c6bcd4b398a4d8480ce8037e9" name="Generate Concept Design of Laparoscope" meeting="false" start="2026-03-12" duration="7" complete="0" expand="true">
+            <depend id="25" type="2" difference="0" hardness="Strong"/>
+            <depend id="29" type="2" difference="0" hardness="Strong"/>
+            <task id="19" uid="e6c59a5552b84b4886266c42087f9f1d" name="Generate the First Concept" color="#ff0033" meeting="false" start="2026-03-12" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Generate the first concept for the Laparoscope]]></notes>
+                <depend id="20" type="2" difference="0" hardness="Strong"/>
+                <depend id="74" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="20" uid="a78639991868477295c05e52626f9be4" name="Generate the Second Concept" color="#ff0033" meeting="false" start="2026-03-13" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Generate the Second Concept for the Laparoscope]]></notes>
+                <depend id="21" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="21" uid="0866109ed2cf4eeca401ecafc35e63b8" name="Generate the Third Concept" color="#ff0033" meeting="false" start="2026-03-14" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Generate the thrid concept for the laparoscope]]></notes>
+                <depend id="22" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="22" uid="cd6636ac5a2246f8a717ce3b73da005a" name="Evaluate the Concepts" color="#ff0033" meeting="false" start="2026-03-17" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Evaluate the Concept designs. Create tables of evaluations]]></notes>
+                <depend id="23" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="23" uid="22de89d988a9406fb623738e69f38c1c" name="Select the Best Concept" color="#ff0033" meeting="false" start="2026-03-18" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Select the highest performing concept]]></notes>
+                <depend id="24" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="24" uid="2fc4315fa7774b4bbbf3aee61e481802" name="Refine Selected Concept" color="#ff0033" meeting="false" start="2026-03-19" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Refine the previously selected concept]]></notes>
+                <depend id="34" type="2" difference="0" hardness="Strong"/>
+                <depend id="57" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="25" uid="0842670de2864567a2453eaede0607a4" name="Finalise Detail Design for Laproscope" meeting="false" start="2026-03-20" duration="8" complete="0" expand="true">
+            <depend id="26" type="2" difference="2" hardness="Strong"/>
+            <task id="34" uid="515ec63241dc499b9c3bcaff0ecab936" name="Perform Analysis of Concept" color="#00ffff" meeting="false" start="2026-03-20" duration="2" complete="0" expand="true">
+                <notes><![CDATA[This section of work requires the student to look at the provided concept and to do a strenght analysis on it. This determine the material properties and dimensions of parts
+]]></notes>
+                <depend id="35" type="2" difference="0" hardness="Strong"/>
+                <depend id="75" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="35" uid="9662139e9083468a9783b3ad09eeb7a5" name="Perform Detail Design" color="#00ffff" meeting="false" start="2026-03-23" duration="3" complete="0" expand="true">
+                <notes><![CDATA[Do Final detail design of the selected concept. Iterative process]]></notes>
+                <depend id="36" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="36" uid="f9dac257c2304e41a1ee265db66153cf" name="Perform Final Analysis of Detail Design" color="#00ffff" meeting="false" start="2026-03-26" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Perform the final analysis of the detail design. Sanity Check]]></notes>
+                <depend id="37" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="37" uid="ec173d84e0754d628d9da9d9640e381e" name="Produce Drawing Pack" color="#00ffff" meeting="false" start="2026-03-27" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Produce the final drawing pack ]]></notes>
+                <depend id="38" type="2" difference="2" hardness="Strong"/>
+                <depend id="39" type="2" difference="2" hardness="Strong"/>
+                <depend id="40" type="2" difference="2" hardness="Strong"/>
+                <depend id="95" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="26" uid="3a80b9638b844842a5f82566afd43128" name="Compile Design Requirements for the Test Station" meeting="false" start="2026-04-01" duration="3" complete="0" expand="true">
+            <depend id="27" type="2" difference="0" hardness="Strong"/>
+            <task id="38" uid="ad4a6b5a931e4d84891726597dbd3f6d" name="Problem Definition" color="#0000ff" meeting="false" start="2026-04-01" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the problem defintion of the Test Station
+]]></notes>
+                <depend id="41" type="2" difference="0" hardness="Strong"/>
+                <depend id="42" type="2" difference="0" hardness="Strong"/>
+                <depend id="43" type="2" difference="0" hardness="Strong"/>
+                <depend id="76" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="39" uid="8079dfeab5934d468d9845dc0aeed080" name="Determine Stakeholders" color="#0000ff" meeting="false" start="2026-04-01" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the stakeholder of the test stations]]></notes>
+                <depend id="41" type="2" difference="0" hardness="Strong"/>
+                <depend id="42" type="2" difference="0" hardness="Strong"/>
+                <depend id="43" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="40" uid="e36af283f4aa4dc9a37b4ad03de01f49" name="Determine Independent Design Parameters" color="#0000ff" meeting="false" start="2026-04-01" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the DIP of the Test Station
+]]></notes>
+                <depend id="41" type="2" difference="0" hardness="Strong"/>
+                <depend id="42" type="2" difference="0" hardness="Strong"/>
+                <depend id="43" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="41" uid="e5c7f7ed85ec4af7a0fce171609e101d" name="Determine Boundary of the System" color="#0000ff" meeting="false" start="2026-04-02" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the narrower and wider system of interest of the test station
+]]></notes>
+                <depend id="44" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="42" uid="fb30e75464dd41f8af5f72a66896d988" name="Determine Functional Requirements" color="#0000ff" meeting="false" start="2026-04-02" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the functional requirements of the Test Station]]></notes>
+                <depend id="44" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="43" uid="5f26ebefce24448ba9ca09b2bac623e9" name="Determine Non-Funcitonal Requirements" color="#0000ff" meeting="false" start="2026-04-02" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the non-functional Requirements of the test station]]></notes>
+                <depend id="44" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="44" uid="239784fc5c3f485191ab7c6b453f6c39" name="Determine Technical Performance Measures" color="#0000ff" meeting="false" start="2026-04-03" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Determine the TPMs of the test station]]></notes>
+                <depend id="45" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="27" uid="3a7a94dfffba4949900b85d4847095f4" name="Generate Concept Design for Test Station" meeting="false" start="2026-04-04" duration="6" complete="0" expand="true">
+            <depend id="28" type="2" difference="0" hardness="Strong"/>
+            <task id="45" uid="06353097bb9d48548e95b1f42d8d4d2b" name="Generate the First Test Concept" color="#ff0033" meeting="false" start="2026-04-04" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Generate the first test for the test station.]]></notes>
+                <depend id="46" type="2" difference="0" hardness="Strong"/>
+                <depend id="77" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="46" uid="ae7d5f9cf8524f07bd31e94585a22d78" name="Generate the Second Test Concept" color="#ff0033" meeting="false" start="2026-04-06" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Generate the second test for the test station]]></notes>
+                <depend id="47" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="47" uid="a66257314e8145879a137fab72c6f8f1" name="Generate the Third Test Concept" color="#ff0033" meeting="false" start="2026-04-07" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Generate the third test for the test station]]></notes>
+                <depend id="48" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="48" uid="f06be2ab9d5949ca86884bbff3320c93" name="Generate the Fourth Test Concept" color="#ff0033" meeting="false" start="2026-04-08" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Generate the fourth test for the test station]]></notes>
+                <depend id="49" type="2" difference="0" hardness="Strong"/>
+                <depend id="50" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="49" uid="5155ee9e40524b9caa9bb38fb964c623" name="Evaluate Test Concepts" color="#ff0033" meeting="false" start="2026-04-09" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Evaluate the test concepts for the test station
+]]></notes>
+                <depend id="51" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="50" uid="6a5ca2b1533b4ded807a72f8053d56ea" name="Select and Eliminate Test Concepts" color="#ff0033" meeting="false" start="2026-04-09" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Select the tests that will be incorporated into the test station]]></notes>
+                <depend id="51" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="51" uid="581418e2811a430eaef899828b64494e" name="Refine Selected Test Conepts" color="#ff0033" meeting="false" start="2026-04-10" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Refine the selected test concept and turn it into a test station]]></notes>
+                <depend id="52" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="28" uid="af8f6332d4a844ffb15c1237b2e5b43d" name="Finalise Detail Design for Test Station" meeting="false" start="2026-04-11" duration="8" complete="0" expand="true">
+            <task id="52" uid="2df4e83221c346c990e1ea9a31ef2ec2" name="Perform Analysis of Test Station Concept" color="#00ffff" meeting="false" start="2026-04-11" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Analyse the test station design]]></notes>
+                <depend id="53" type="2" difference="0" hardness="Strong"/>
+                <depend id="79" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="53" uid="515d313d4ac1458dadd15f60a06fe428" name="Perform Detail Design" color="#00ffff" meeting="false" start="2026-04-13" duration="2" complete="0" expand="true">
+                <depend id="54" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="54" uid="d83492406c8f4ef5b472e1f3dcf88e84" name="Perform Analysis on the Detail Design" color="#00ffff" meeting="false" start="2026-04-15" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Perform Analysis on the detail designed test station]]></notes>
+                <depend id="55" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="55" uid="0cd8b4fa4bc5467aa3b8af09c8a3c274" name="Produce Drawing Pack" color="#00ffff" meeting="false" start="2026-04-16" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Produce the drawing pack of the test station]]></notes>
+                <depend id="56" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="56" uid="e14840583a934687887e582fd16cb5f6" name="Articulate the Test Procedures" color="#00ffff" meeting="false" start="2026-04-18" duration="2" complete="0" expand="true">
+                <depend id="58" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="29" uid="c6d12afd54b24d46b6ffbc2333278a52" name="Construct and Implement Laparoscope" meeting="false" start="2026-03-20" duration="37" complete="0" expand="true">
+            <depend id="30" type="2" difference="0" hardness="Strong"/>
+            <task id="57" uid="0c470646cbd748168a2149a8603a0ade" name="Learn Programming Langauge" color="#cc00cc" meeting="false" start="2026-03-20" duration="27" complete="0" expand="true">
+                <notes><![CDATA[Based on the results of the Concept design of the laparoscope, all the hardware is selected. So, the SBC is selected, so the programming langauges as well. So, for this section it is required to do these things:
+
+1) Learn the programming language. 
+
+2) Locate necessary github repositories for this project.
+
+3) Learn necessary open cv functionality.
+
+4) Learn necessary SBC functionality]]></notes>
+                <depend id="58" type="2" difference="0" hardness="Strong"/>
+                <depend id="80" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="58" uid="a70c76d2f0a94696a3f29cffe087b422" name="Implement Camera Module" color="#cc00cc" meeting="false" start="2026-04-21" duration="3" complete="0" expand="true">
+                <notes><![CDATA[Use the SBC to work the camera module.]]></notes>
+                <depend id="59" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="59" uid="51ccd4cf74de4dec83b19428b84b2f3b" name="Implement Montior Display" color="#cc00cc" meeting="false" start="2026-04-24" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Use the SBC to work with the monitor
+]]></notes>
+                <depend id="60" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="60" uid="fb1863756f854bd9b631dc483b1b7409" name="Implement SBC Functionality" color="#cc00cc" meeting="false" start="2026-04-27" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Use the SBC to work everything of the laparoscope. All signal lights and storage system.]]></notes>
+                <depend id="61" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="61" uid="1ad9d8003e4a417f88e89b7e5e5a4665" name="Build the Laparoscope" color="#cc00cc" meeting="false" start="2026-04-29" duration="3" complete="0" expand="true">
+                <notes><![CDATA[Build the laparoscope. Everything]]></notes>
+                <depend id="62" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="30" uid="5621be26d89c4eff993d92e944e2bfba" name="Construct Test Station" meeting="false" start="2026-05-02" duration="3" complete="0" expand="true">
+            <depend id="31" type="2" difference="0" hardness="Strong"/>
+            <task id="62" uid="b3af3cacb9ef41eaaa4c78a40260ea87" name="Build Main Test Body" color="#ff9900" meeting="false" start="2026-05-02" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Build the main test body of the test station]]></notes>
+                <depend id="63" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="63" uid="2e0a0573441b412db20adc4683830f8c" name="Build Various Test Procedures" color="#ff9900" meeting="false" start="2026-05-05" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Build the various equipment needed for the different tests]]></notes>
+                <depend id="65" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="31" uid="3133c3cd67164d139b39ef49fa3fea68" name="Perform Functionality Test" meeting="false" start="2026-05-06" duration="3" complete="0" expand="true">
+            <depend id="32" type="2" difference="0" hardness="Strong"/>
+            <task id="65" uid="505af8f1f37a43858d3944deeafadb57" name="Perform Functionality Test 1" color="#ffff33" meeting="false" start="2026-05-06" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Perform the first functionality test.]]></notes>
+                <depend id="66" type="2" difference="0" hardness="Strong"/>
+                <depend id="81" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="66" uid="529a8b0896fc44558edb3d078d3c4354" name="Perform Functionality Test 2" color="#ffff33" meeting="false" start="2026-05-07" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Perform the second functionality test.]]></notes>
+                <depend id="67" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="67" uid="9310d2445e204644b01915cfee565f77" name="Perform Functionality Test 3" color="#ffff33" meeting="false" start="2026-05-08" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Perform third functionality test.]]></notes>
+                <depend id="68" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="32" uid="faa5c0e4e1fc411e9da45088b0fbd18a" name="Evaluate Laparoscope" meeting="false" start="2026-05-09" duration="5" complete="0" expand="true">
+            <task id="68" uid="84c9ed411c0d4f98a7baa5275b6a7b0e" name="Evalaute the Performance of the Laparoscope" color="#9966ff" meeting="false" start="2026-05-09" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Evalaute the performance of the laparoscope during the testing.]]></notes>
+                <depend id="69" type="2" difference="0" hardness="Strong"/>
+                <depend id="70" type="2" difference="0" hardness="Strong"/>
+                <depend id="82" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="69" uid="ffacc6354eb3423fbc398fd5da3ea753" name="Evalaute the General Laparoscope" color="#9966ff" meeting="false" start="2026-05-12" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Evaluate the laparoscope as a whole. Drawbacks from the design of it and overall construction and implementation.]]></notes>
+                <depend id="71" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="70" uid="7bb55cd3977a491591251cb004d032c3" name="Evaluate the Test Station" color="#9966ff" meeting="false" start="2026-05-12" duration="2" complete="0" expand="true">
+                <notes><![CDATA[Evaluate the test station as a whole. Did it prove signifiacant value or not?
+]]></notes>
+                <depend id="71" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="71" uid="dc2d9905b5db484db044983ba8fb63c5" name="Document an Improvement Plan" color="#9966ff" meeting="false" start="2026-05-14" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Based on the evaluations from the test, make an improvement plan for the laparoscope. ]]></notes>
+            </task>
+        </task>
+        <task id="33" uid="542c263c2af14a66b80624995a8b3d1d" name="Documentation" meeting="false" start="2026-03-04" duration="89" complete="0" expand="true">
+            <task id="72" uid="39332b0c07254c41bc10602e434ab7d8" name="Document the Literature Review" color="#ff9999" meeting="false" start="2026-03-04" duration="3" complete="0" expand="true">
+                <notes><![CDATA[Make a document that contains all literture reviews]]></notes>
+                <depend id="73" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="73" uid="fa889148329940b182df0c195c6138f4" name="Document the Design Specification Report for the Laparoscope" color="#ff9999" meeting="false" start="2026-03-07" duration="5" complete="0" expand="true">
+                <notes><![CDATA[Document the entire design specification report for the laparoscope.]]></notes>
+                <depend id="74" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="74" uid="9b04a67f94c14bc0997eda9eba1544ea" name="Document the Concept Generation Report" color="#ff9999" meeting="false" start="2026-03-13" duration="7" complete="0" expand="true">
+                <notes><![CDATA[Document the concept generation report.]]></notes>
+                <depend id="75" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="75" uid="9968b7bc6b6d4fbfa899f47ad58addc4" name="Document the Detail Design Report for Laparoscope" color="#ff9999" meeting="false" start="2026-03-23" duration="6" complete="0" expand="true">
+                <notes><![CDATA[Document the detail design report of the laparoscope.]]></notes>
+                <depend id="76" type="2" difference="0" hardness="Strong"/>
+                <depend id="89" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="76" uid="b1b758abf10548c18053bd57e2af3c46" name="Document the Design Specification Report for the Test Station" color="#ff9999" meeting="false" start="2026-04-02" duration="3" complete="0" expand="true">
+                <notes><![CDATA[Document design specifications for the test station.]]></notes>
+                <depend id="77" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="77" uid="2380ea9eb6014e6da5af369737a60aa1" name="Document the Concept Generation Report for Test Station" color="#ff9999" meeting="false" start="2026-04-06" duration="4" complete="0" expand="true">
+                <notes><![CDATA[Document the concept generation for the test station and the various tests.]]></notes>
+            </task>
+            <task id="78" uid="b4f8967251e1405db8e2cb9a6d65cf0e" name="Document Progress Report" color="#ff9999" meeting="false" start="2026-03-04" duration="34" complete="0" expand="true">
+                <notes><![CDATA[Document the Progress Report]]></notes>
+                <depend id="79" type="2" difference="0" hardness="Strong"/>
+                <depend id="83" type="2" difference="0" hardness="Strong"/>
+                <depend id="88" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="79" uid="0799ff4b25a947a583cfd0d13098868d" name="Document the Detail Design Report for the Test Station" color="#ff9999" meeting="false" start="2026-04-13" duration="7" complete="0" expand="true">
+                <notes><![CDATA[Docement the detail design report for the test station]]></notes>
+                <depend id="80" type="2" difference="0" hardness="Strong"/>
+                <depend id="90" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="95" uid="24852bbacb5b4fda87c2f8fa26e6522a" name="Docement Safety Report" color="#ff9999" meeting="false" start="2026-03-30" duration="13" complete="0" expand="true">
+                <notes><![CDATA[Generate Safety Report]]></notes>
+                <depend id="87" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="80" uid="59838180b133440eac93c9530bece74e" name="Document the Building Process" color="#ff9999" meeting="false" start="2026-04-21" duration="13" complete="0" expand="true">
+                <notes><![CDATA[Document the entirety of building process for both laparoscope and test station]]></notes>
+                <depend id="81" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="81" uid="be23337203094ee7987b378acdcd5ea4" name="Document the Testing Procedures" color="#ff9999" meeting="false" start="2026-05-07" duration="3" complete="0" expand="true">
+                <notes><![CDATA[Document all testing procedures of the laparoscope test]]></notes>
+                <depend id="82" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="82" uid="0e614d1068c641519b20ac613167d802" name="Document the Evalaution" color="#ff9999" meeting="false" start="2026-05-12" duration="4" complete="0" expand="true">
+                <notes><![CDATA[Document the evaluation of the project]]></notes>
+            </task>
+            <task id="83" uid="efeccdbba58f40088d219c06522e05c5" name="Document Final Preliminary Report" color="#ff9999" meeting="false" start="2026-04-13" duration="42" complete="0" expand="true">
+                <notes><![CDATA[Document the final preliminary report]]></notes>
+                <depend id="84" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="84" uid="fb0e5dc7e99e41daab8f7ce1aae800e6" name="Edit Final Preliminary Report" color="#ff9999" meeting="false" start="2026-06-01" duration="4" complete="0" expand="true">
+                <notes><![CDATA[Edit the final prelimanary report]]></notes>
+                <depend id="85" type="2" difference="0" hardness="Strong"/>
+                <depend id="92" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="85" uid="d3694e4f60734a3e90f662bca291a209" name="Edit Final Report" color="#ff9999" meeting="false" start="2026-06-05" duration="9" complete="0" expand="true">
+                <notes><![CDATA[Edit final report]]></notes>
+                <depend id="91" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="86" uid="06e38c8967334f2d9ac2612bdfd9d09b" name="Milestones" meeting="false" start="2026-03-04" duration="89" complete="0" expand="true">
+            <task id="93" uid="8fff721313e84ac2b5caf9a9b0dc0211" name="Proposal Hand-in" meeting="true" start="2026-03-04" duration="0" complete="0" expand="true">
+                <notes><![CDATA[Hand-in Proposal ]]></notes>
+            </task>
+            <task id="89" uid="3f1cdf82b7e740f4b79c1dd4bd312d87" name="Laparoscope Drawing Pack Hand-in" meeting="true" start="2026-03-30" duration="0" complete="0" expand="true">
+                <notes><![CDATA[Hand-in Laparoscope Drawing Pack]]></notes>
+            </task>
+            <task id="88" uid="6b53dd8e86c644c49ea99d1bd98605f4" name="Progress Report Hand-in" meeting="true" start="2026-04-13" duration="0" complete="0" expand="true">
+                <notes><![CDATA[Hand-in Progress Report]]></notes>
+            </task>
+            <task id="90" uid="8a2997b250a74f339ecc413ecf2b2878" name="Test Station Drawing Pack Hand-in" meeting="true" start="2026-04-21" duration="0" complete="0" expand="true">
+                <notes><![CDATA[Hand-in Test Station Drawing Pack]]></notes>
+            </task>
+            <task id="87" uid="65ae395135104d99a025f4f74dfa0507" name="Safety Report Hand-in" meeting="true" start="2026-04-14" duration="0" complete="0" expand="true">
+                <notes><![CDATA[Hand-in Safety Report]]></notes>
+            </task>
+            <task id="92" uid="1c3295ddc4284117a7ac83049aaa8ab0" name="Final Preliminary Report Hand-in" meeting="true" start="2026-06-05" duration="0" complete="0" expand="true">
+                <notes><![CDATA[Hand-in Final Preliminary Report]]></notes>
+            </task>
+            <task id="91" uid="88a75208cf9d4d63a82227c205dfb50d" name="Final Report Hand-in" meeting="true" start="2026-06-16" duration="0" complete="0" expand="true">
+                <notes><![CDATA[Hand-in Final Report]]></notes>
+            </task>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>

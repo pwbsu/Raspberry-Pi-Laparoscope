@@ -1,0 +1,24 @@
+-----------------------------------------------------------
+Stellenbosch-2  v2.0  (2023/09/01)
+-----------------------------------------------------------
+
+    Documentation bug fixes
+    
+    stb-thesis v1.3
+        - Remove add to contents before TOC in 
+          Declaration, abstracts and TOC.
+    
+    Templates 
+        - Remove add to contents before TOC  
+        - Change \chapters to \chapters* before TOC
+        - Set    \renewcommand\tableofcontents{%
+                     \chapter*{\contentsname}\@starttoc{toc}}
+
+-----------------------------------------------------------
+Stellenbosch-2  v1.0  (2023/08/10)
+-----------------------------------------------------------
+
+    First CTAN release
+
+-----------------------------------------------------------
+ 

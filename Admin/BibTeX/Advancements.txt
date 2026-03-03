@@ -1,0 +1,14 @@
+﻿@article{RN17,
+   author = {Subido, Edwin D. C., Jr. and Pacis, Danica Mitch M. and Bugtai, Nilo T.},
+   title = {Recent technological advancements in laparoscopic surgical instruments},
+   journal = {AIP Conference Proceedings},
+   volume = {1933},
+   number = {1},
+   abstract = {Laparoscopy was a progressive step to advancing surgical procedures as it minimised the scars left on the body after surgery, compared to traditional open surgery. Many years later, single-incision laparoscopic surgery (SILS) was created where, instead of having multiple incisions, only one incision is made or multiple small incisions in one location. SILS, or laparoendoscopic single-site surgery (LESS), may produce lesser scars but drawbacks for the surgeons are still present. This paper aims to present related literature of the recent technological developments in laparoscopic tools and procedure particularly in the vision system, handheld instruments. Tech advances in LESS will also be shown. Furthermore, this review intends to give an update on what has been going on in the surgical robot market and state which companies are interested and are developing robotic systems for commercial use to challenge Intuitive Surgical’s da Vinci Surgical System that currently dominates the market.},
+   ISSN = {0094-243X},
+   DOI = {10.1063/1.5023977},
+   url = {https://doi.org/10.1063/1.5023977},
+   year = {2018},
+   type = {Journal Article}
+}
+

@@ -1,0 +1,222 @@
+﻿@article{RN5,
+   author = {Abdulhamid, Mohanad and Al-Rawi, Muhanned},
+   title = {COMPUTER VISION BASED ON RASPBERRY PI SYSTEM},
+   DOI = {10.23743/acs-2020-31},
+   url = {https://ph.pollub.pl/index.php/acs/article/download/3174/2883},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN3,
+   author = {Alkatout, I. and Mechler, U. and Mettler, L. and Pape, J. and Maass, N. and Biebl, M. and Gitas, G. and Lagana, A. S. and Freytag, D.},
+   title = {The Development of Laparoscopy-A Historical Overview},
+   journal = {Front Surg},
+   volume = {8},
+   pages = {799442},
+   note = {Alkatout, Ibrahim
+Mechler, Ulrich
+Mettler, Liselotte
+Pape, Julian
+Maass, Nicolai
+Biebl, Matthias
+Gitas, Georgios
+Lagana, Antonio Simone
+Freytag, Damaris
+eng
+Review
+Switzerland
+2022/01/04
+Front Surg. 2021 Dec 15;8:799442. doi: 10.3389/fsurg.2021.799442. eCollection 2021.},
+   abstract = {The advent of laparoscopy marked a fundamental change in the evolution of medicine. The procedure progressed consistently after the first time it was performed in a human being nearly a hundred years ago. The 1960's and 1980's witnessed groundbreaking changes. During this time, laparoscopy evolved from a purely diagnostic procedure into an independent surgical approach. Outstanding pioneers of the times were Palmer, Frangenheim and Semm. Laparoscopy advanced rapidly and influenced gynecology as well. The procedure was initially attacked most vociferously by the surgical fraternity. However, within a short period of time the pendulum shifted: laparoscopy became the preferred surgical approach for a variety of diseases-whether benign or malignant-in several medical disciplines. Laparoscopy has become a routine approach in the twenty-first century. Technical advancements have led to robot-assisted surgery. Future developments will include artificial intelligence and augmented reality. In the present article we address past milestones, current practices, and future challenges in laparoscopy.},
+   keywords = {Kiel
+Semm
+history of medicine
+kelling
+laparoscopy
+minimally invasive surgery},
+   ISSN = {2296-875X (Print)
+2296-875X (Electronic)
+2296-875X (Linking)},
+   DOI = {10.3389/fsurg.2021.799442},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/34977146},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN1,
+   author = {Buia, A. and Stockhausen, F. and Hanisch, E.},
+   title = {Laparoscopic surgery: A qualified systematic review},
+   journal = {World J Methodol},
+   volume = {5},
+   number = {4},
+   pages = {238–54},
+   note = {Buia, Alexander
+Stockhausen, Florian
+Hanisch, Ernst
+eng
+2015/12/30
+World J Methodol. 2015 Dec 26;5(4):238-54. doi: 10.5662/wjm.v5.i4.238. eCollection 2015 Dec 26.},
+   abstract = {AIM: To review current applications of the laparoscopic surgery while highlighting the standard procedures across different fields. METHODS: A comprehensive search was undertaken using the PubMed Advanced Search Builder. A total of 321 articles were found in this search. The following criteria had to be met for the publication to be selected: Review article, randomized controlled trials, or meta-analyses discussing the subject of laparoscopic surgery. In addition, publications were hand-searched in the Cochrane database and the high-impact journals. A total of 82 of the findings were included according to matching the inclusion criteria. Overall, 403 full-text articles were reviewed. Of these, 218 were excluded due to not matching the inclusion criteria. RESULTS: A total of 185 relevant articles were identified matching the search criteria for an overview of the current literature on the laparoscopic surgery. Articles covered the period from the first laparoscopic application through its tremendous advancement over the last several years. Overall, the biggest advantage of the procedure has been minimizing trauma to the abdominal wall compared with open surgery. In the case of cholecystectomy, fundoplication, and adrenalectomy, the procedure has become the gold standard without being proven as a superior technique over the open surgery in randomized controlled trials. Faster recovery, reduced hospital stay, and a quicker return to normal activities are the most evident advantages of the laparoscopic surgery. Positive outcomes, efficiency, a lower rate of wound infections, and reduction in the perioperative morbidity of minimally invasive procedures have been shown in most indications. CONCLUSION: Improvements in surgical training and developments in instruments, imaging, and surgical techniques have greatly increased safety and feasibility of the laparoscopic surgical procedures.},
+   keywords = {Appendectomy
+Cholecystectomy
+Colon resection
+Endoscopic surgery
+Esophagectomy
+Gastrectomy
+Gastric cancer
+Laparoscopic surgery
+Pancreatic surgery
+Rectal resection},
+   ISSN = {2222-0682 (Print)
+2222-0682 (Electronic)
+2222-0682 (Linking)},
+   DOI = {10.5662/wjm.v5.i4.238},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26713285},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN10,
+   author = {Chetry, Biprav and Nath, Pabitra},
+   title = {Compact and Affordable Raspberry Pi‐Based Multimodal Imaging System With Remote Monitoring Capabilities for Bioimaging Applications},
+   journal = {Microscopy research and technique},
+   volume = {89},
+   number = {1},
+   pages = {73–86},
+   abstract = {The rapid advancements in smartphone camera features and accessibility have garnered significant attention for smartphone‐based imaging systems in recent years. However, due to variations in dimensions and camera positions across different phones, they often suffer from compatibility issues. In the present work, these issues have been addressed by using a Raspberry Pi single‐board computer (SBC) as the platform for the development of a multimodal microscopic system. The proposed imaging system can be remotely accessed and controlled via Wi‐Fi from a computer, tablet, or smartphone, thus offering greater flexibility compared to smartphone‐based imaging systems. The system offers four imaging modalities: bright‐field (BF), dark‐field (DF), oblique illumination (OI), and differential phase contrast (DPC), all on a single platform without requiring any additional optical components. Developed at an affordable cost of ~$122 using 3D printing and readily available components, the system achieves a noteworthy optical resolution of 1.64 μm, comparable to a laboratory microscope with a ×10 objective. Its imaging capabilities have been validated against a research‐grade microscope, demonstrating its potential as a reliable and cost‐effective tool for sectors in need of accessible microscopy solutions. Raspberry Pi‐based microscopic system with multiple imaging modes and cross‐device remote viewing capability.},
+   keywords = {Cameras
+Diagnostic imaging
+Human beings
+Microscopy
+Multimodal Imaging
+Smartphones},
+   ISSN = {1059-910X},
+   DOI = {10.1002/jemt.70058},
+   year = {2026},
+   type = {Journal Article}
+}
+
+@article{RN11,
+   author = {Ibrahim, Alkatout and Ulrich, Mechler and Liselotte, Mettler and Julian, Pape and Nicolai, Maass and Matthias, Biebl and Georgios, Gitas and Antonio Simone, Laganà and Damaris, Freytag},
+   title = {The Development of Laparoscopy—A Historical Overview},
+   journal = {Frontiers in surgery},
+   volume = {8},
+   abstract = {The advent of laparoscopy marked a fundamental change in the evolution of medicine. The procedure progressed consistently after the first time it was performed in a human being nearly a hundred years ago. The 1960's and 1980's witnessed groundbreaking changes. During this time, laparoscopy evolved from a purely diagnostic procedure into an independent surgical approach. Outstanding pioneers of the times were Palmer, Frangenheim and Semm. Laparoscopy advanced rapidly and influenced gynecology as well. The procedure was initially attacked most vociferously by the surgical fraternity. However, within a short period of time the pendulum shifted: laparoscopy became the preferred surgical approach for a variety of diseases—whether benign or malignant—in several medical disciplines. Laparoscopy has become a routine approach in the twenty-first century. Technical advancements have led to robot-assisted surgery. Future developments will include artificial intelligence and augmented reality. In the present article we address past milestones, current practices, and future challenges in laparoscopy.},
+   keywords = {Endoscopic surgery
+Laparoscopic surgery
+Laparoscopy},
+   ISSN = {2296-875X},
+   DOI = {10.3389/fsurg.2021.799442},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@inbook{RN6,
+   author = {Isherwood, Zach and Secco, Emanuele},
+   title = {A Raspberry Pi Computer Vision System for Self-driving Cars},
+   pages = {910–924},
+   abstract = {This paper presents a prototype of a self-driving vehicle that can detect the lane that it is currently in and can aim to maintain a central position within that lane; this is to be done without the use of special sensors or devices and utilizing only a low-cost camera and processing unit. The proposed system uses a hand-built detection system to observe the lane markings using computer vision, then using these given lines, calculate the trajectory to the center of the lane. After locating the center of the lane, the system provides the steering heading that the vehicle needs to maintain to continuously self-correct itself; this process is real-time performed with a sampling frequency of 20 Hz. Due to the increased number of calculations, the heading is smoothed to remove any anomalies in observations made by the system. Since this system is a prototype, the required processing power used in an actual vehicle for this application would be much higher since the budget of the components would be more significant; a higher processing speed would lead to an overall increased frame rate of the system. In addition, a higher frame rate would be required for higher speeds of the vehicle to allow for an accurate and smooth calculation of heading. The prototype is fully operational within an urban environment where road markings are fully and clearly defined along with well-lit and smooth road surfaces.},
+   ISBN = {978-3-031-10463-3},
+   DOI = {10.1007/978-3-031-10464-0_63},
+   url = {https://link.springer.com/chapter/10.1007/978-3-031-10464-0_63},
+   year = {2022},
+   type = {Book Section}
+}
+
+@article{RN14,
+   author = {Lazarus, J. M. and Ncube, M.},
+   title = {A low-cost wireless endoscope camera: a preliminary report},
+   journal = {African Journal of Urology},
+   volume = {27},
+   number = {1},
+   pages = {26},
+   abstract = {Technology currently used for surgical endoscopy was developed and is manufactured in high-income economies. The cost of this equipment makes technology transfer to resource constrained environments difficult. We aimed to design an affordable wireless endoscope to aid visualisation during rigid endoscopy and minimally invasive surgery (MIS). The initial prototype aimed to replicate a 4-mm lens used in rigid cystoscopy.},
+   ISSN = {1961-9987},
+   DOI = {10.1186/s12301-021-00127-z},
+   url = {https://doi.org/10.1186/s12301-021-00127-z},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN9,
+   author = {Long, Matthew Michael and Diep, Tai The and Needs, Sarah Helen and Ross, Marta Joan and Edwards, Alexander Daniel},
+   title = {PiRamid: A compact Raspberry Pi imaging box to automate small-scale time-lapse digital analysis, suitable for laboratory and field use},
+   journal = {HardwareX},
+   volume = {12},
+   pages = {e00377},
+   abstract = {Digital imaging permits the quantitation of many experiments, such as microbiological growth assays, but laboratory digital imaging systems can be expensive and too specialised. The Raspberry Pi camera platform makes automated, controlled imaging affordable with accessible customisation. When combined with open source software and open-source 3D printed hardware, the control over image quality and capture of this platform permits the rapid development of novel instrumentation. Here we present “PiRamid”, a compact, portable, and inexpensive enclosure for autonomous imaging both in the laboratory and in the field. The modular three-piece 3D printed design makes it easy to incorporate different camera systems or lighting configurations (e.g., single wavelength LED for fluorescence). The enclosed design allows complete control of illumination unlike a conventional digital camera or smartphone, on a tripod or handheld, under ambient lighting. The stackable design permits rapid sample addition or camera focus adjustment, with a corresponding change in magnification and resolution. The entire unit is small enough to fit within a microbiological incubator, and cheap enough (∼£100) to scale out for larger parallel experiments. Simply, Python scripts fully automate illumination and image capture for small-scale experiments with an ∼110×85 mm area at 70–90 µm resolution. We demonstrate the versatility of PiRamid by capturing time-resolved, quantitative image data for a wide range of assays. Bacterial growth kinetics was captured for conventional microbiology (agar Petri dishes), 3D printed custom microbiology labware and microfluidic microbiology. To illustrate application beyond microbiology, we demonstrate time-lapse imaging of crystal growth and degradation of salad leaves. Minor modifications permit epi-illumination by addition of a LED ring to the camera module. We conclude that PiRamid permits inexpensive digital capture and quantitation of a wide range of experiments by time-lapse imaging to simplify both laboratory and field imaging.},
+   keywords = {Time-lapse imaging
+Raspberry Pi
+Quantitative image data
+3D printed
+Microbiological testing},
+   ISSN = {2468-0672},
+   DOI = {https://doi.org/10.1016/j.ohx.2022.e00377},
+   url = {https://www.sciencedirect.com/science/article/pii/S2468067222001225
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9685356/},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN12,
+   author = {Meddeb, Houda and Abdellaoui, Zouhaira and Houaidi, Firas},
+   title = {Development of surveillance robot based on face recognition using Raspberry-PI and IOT},
+   journal = {Microprocessors and microsystems},
+   volume = {96},
+   pages = {104728},
+   abstract = {The advancement in recent technologies such as artificial intelligence (AI), computer vision (CV) and internet of things (IoT) extends to various areas, especially surveillance systems that require real-time facial recognition processing to ensure safety. In fact, mobile robots are widely used in surveillance systems to perform dangerous tasks that humans cannot. In this context, we propose a prototype of a low-cost mobile surveillance robot based on Raspberry PI 4 which can be integrated into any industrial area. This intelligent robot checks about the presence of intruder using IoT and face recognition technology. The system is equipped with passive infrared (PIR) sensor and camera to record live streaming video and photos, which are transmitted to the room control via IoT. Thanks to facial recognition algorithms, the system can distinguish between company personnel and intruders. Haar Cascade Classifier and LBPH (Local Binary Pattern Histogram) algorithm are used in image processing to detect and identify individuals. When a stranger is detected, alert notifications and email with captured image are sent to the room control via IoT. A web interface was developed to remotely control the designed robot via a WiFi connection. This application allows monitoring of a wide area and can improve the robot's perception system. Performance evaluations will be conducted to demonstrate the effectiveness and robustness of the face recognition algorithms used in this framework.},
+   ISSN = {0141-9331},
+   DOI = {10.1016/j.micpro.2022.104728},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN4,
+   author = {Pagnutti, Mary and Ryan, Robert and Cazenavette, George and Gold, Maxwell and Harlan, Ryan and Leggett, Edward and Pagnutti, James},
+   title = {Laying the foundation to use Raspberry Pi 3 V2 camera module imagery for scientific and engineering purposes},
+   journal = {Journal of Electronic Imaging},
+   volume = {26},
+   number = {1},
+   pages = {013014},
+   abstract = {A comprehensive radiometric characterization of raw-data format imagery acquired with the Raspberry Pi 3 and V2.1 camera module is presented. The Raspberry Pi is a high-performance single-board computer designed to educate and solve real-world problems. This small computer supports a camera module that uses a Sony IMX219 8 megapixel CMOS sensor. This paper shows that scientific and engineering-grade imagery can be produced with the Raspberry Pi 3 and its V2.1 camera module. Raw imagery is shown to be linear with exposure and gain (ISO), which is essential for scientific and engineering applications. Dark frame, noise, and exposure stability assessments along with flat fielding results, spectral response measurements, and absolute radiometric calibration results are described. This low-cost imaging sensor, when calibrated to produce scientific quality data, can be used in computer vision, biophotonics, remote sensing, astronomy, high dynamic range imaging, and security applications, to name a few.},
+   url = {https://doi.org/10.1117/1.JEI.26.1.013014},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN7,
+   author = {Widodo, C. E. and Adi, K. and Gunadi, I.},
+   title = {The use of raspberry pi as a portable medical image processing},
+   journal = {Journal of Physics: Conference Series},
+   volume = {1524},
+   number = {1},
+   pages = {012004},
+   abstract = {This paper presents the image processing implementation in Raspberry Pi. Raspberry Pi is a system built-in and is a low-cost computer that can be used to reduce system complexity in real-time applications. For programming, it’s very good to use Python. Raspberry pi has a Camera Slot Interface (CSI) to interface the camera with Raspberry Pi. Low contrast images captured using the Raspberry Pi camera module can be scaled up first to identify specific image regions. The most important processing is the removal of noise as a result of noise disturbance during image acquisition on the camera. Due to its small size, which is about the size of a credit card and its lightweight, raspberry pi is very suitable for use as a portable medical image processing system. Besides that Raspberry Pi also consumes low power.},
+   ISSN = {1742-6596
+1742-6588},
+   DOI = {10.1088/1742-6596/1524/1/012004},
+   url = {https://doi.org/10.1088/1742-6596/1524/1/012004
+https://iopscience.iop.org/article/10.1088/1742-6596/1524/1/012004},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN13,
+   author = {Xiao, Dongjuan and Jakimowicz, Jack J. and Albayrak, Armagan and Buzink, Sonja N. and Botden, Sanne M. B. I. and Goossens, Richard H. M.},
+   title = {Face, Content, and Construct Validity of a Novel Portable Ergonomic Simulator for Basic Laparoscopic Skills},
+   journal = {Journal of surgical education},
+   volume = {71},
+   number = {1},
+   pages = {65–72},
+   abstract = {Laparoscopic skills can be improved effectively through laparoscopic simulation. The purpose of this study was to verify the face and content validity of a new portable Ergonomic Laparoscopic Skills simulator (Ergo-Lap simulator) and assess the construct validity of the Ergo-Lap simulator in 4 basic skills tasks. Four tasks were evaluated: 2 different translocation exercises (a basic bimanual exercise and a challenging single-handed exercise), an exercise involving tissue manipulation under tension, and a needle-handling exercise. Task performance was analyzed according to speed and accuracy. The participants rated the usability and didactic value of each task and the Ergo-Lap simulator along a 5-point Likert scale. Institutional academic medical center with its affiliated general surgery residency. Forty-six participants were allotted into 2 groups: a Novice group (n = 26, <10 clinical laparoscopic procedures) and an Experienced group (n = 20, >50 clinical laparoscopic procedures). The Experienced group completed all tasks in less time than the Novice group did (p < 0.001, Mann-Whitney U test). The Experienced group also completed tasks 1, 2, and 4 with fewer errors than the Novice group did (p < 0.05). Of the Novice participants, 96% considered that the present Ergo-Lap simulator could encourage more frequent practice of laparoscopic skills. In addition, 92% would like to purchase this simulator. All of the experienced participants confirmed that the Ergo-Lap simulator was easy to use and useful for practicing basic laparoscopic skills in an ergonomic manner. Most (95%) of these respondents would recommend this simulator to other surgical trainees. This Ergo-Lap simulator with multiple tasks was rated as a useful training tool that can distinguish between various levels of laparoscopic expertise. The Ergo-Lap simulator is also an inexpensive alternative, which surgical trainees could use to update their skills in the skills laboratory, at home, or in the office.},
+   keywords = {Human beings
+Human engineering
+Laparoscopy
+Reproducibility of Results
+Surgery},
+   ISSN = {1931-7204},
+   DOI = {10.1016/j.jsurg.2013.05.003},
+   year = {2014},
+   type = {Journal Article}
+}
+

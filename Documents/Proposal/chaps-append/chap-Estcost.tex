@@ -1,0 +1,77 @@
+
+\chapter{Estimated Cost per Activity}
+
+The estimated cost per activity, shows all the planned activities of the project and how much time would be used to perform each activity. Each activity duration is determine by the gannt chart. It is assumed that there is 8 hours available each working day. And the workload is divided based on importance for each day. Usaully 5 hours for planned activities and then 1 hour each day for documentation. This is not a concrete value and is subject to change.
+\begin{landscape} 
+
+\begin{table}[H]
+    \centering
+    \footnotesize                   
+    \setlength{\tabcolsep}{4pt} 
+    \caption{Estimated Cost per Activity}    
+    \begin{tabular}{|l|c|c|c|c|c|c|c|c|c|}
+        \hline
+
+            \multirow{3}{*}{Activity} & 
+            \multicolumn{2}{c|}{\multirow{2}{*}{Engineering Time}} & 
+            \multirow{2}{*}{Running Cost} & 
+            \multirow{2}{*}{Facility Use} & 
+            \multirow{2}{*}{Capital Cost} & 
+            \multicolumn{3}{c|}{MMW} & 
+            \multirow{3}{*}{Total} \\
+        \cline{7-9}
+            & 
+            \multicolumn{2}{c|}{} &     
+            &                           
+            &                           
+            &                           
+            \multicolumn{2}{c|}{Labour} & 
+            Material & 
+            \\
+        \hline
+            & hr & R & R & R & R & hr & R & R & R \\
+        \hline
+
+
+            Literature Review           & 15  & 6750   & 150  &       &      &    &       &     & 6900   \\
+        \hline
+            Component Review            & 20  & 9000   & 150  &       &      &    &       &     & 9150   \\
+        \hline
+            \makecell[l]{Compile Design \\ Requirements for \\ Laparoscope}
+                            & 20  & 9000   & 150  &       &      &    &       &     & 9150   \\
+        \hline
+            \makecell[l]{Generate Concept \\ Design for Laparoscope}
+                            & 35  & 15750  & 150  &       &      &    &       &     & 15900  \\
+        \hline
+            \makecell[l]{Finalise Detail Design \\ for Laparoscope}
+                            & 40  & 18000  & 150  &       &      &    &       &     & 18150  \\
+        \hline
+            \makecell[l]{Compile Design \\ Requirements for \\ Test Station}
+                            & 20  & 9000   & 150  &       &      &    &       &     & 9150   \\
+        \hline
+            \makecell[l]{Generate Concept \\ Design for Test Station}
+                            & 30  & 13500  & 150  &       &      &    &       &     & 13650  \\
+        \hline
+            \makecell[l]{Finalise Detail Design \\ for Test Station}
+                            & 40  & 18000  & 150  &       &      &    &       &     & 18150  \\
+        \hline
+            \makecell[l]{Constuct and \\ Implement Laparoscope}
+                            & 95  & 42750  & 600  & 6000  & 4000 & 15 & 4500  & 500 & 58350  \\
+        \hline
+            Construct Test Station      & 20  & 9000   & 600  & 2000  &      & 40 & 12000 & 300 & 23900  \\
+        \hline
+            \makecell[l]{Perform Functionality \\ Test}
+                            & 40  & 18000  & 600  & 2000  &      &    &       &     & 20600  \\
+        \hline
+            Evaluate Laparoscope        & 25  & 11250  & 150  &       &      &    &       &     & 11400  \\
+        \hline
+            Documentation               & 120 & 54000  & 150  &       &      &    &       &     & 54150  \\
+        \hline
+            \textbf{Total}              & \textbf{520} & \textbf{234000} & \textbf{3300} & \textbf{10000} & \textbf{4000} & \textbf{55} & \textbf{16500} & \textbf{800} & \textbf{268600} \\
+        \hline
+
+\end{tabular}
+
+\label{tab:Estimated Cost Table}
+\end{table}
+\end{landscape}

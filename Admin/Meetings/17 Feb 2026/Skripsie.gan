@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Skripsie" company="" webLink="http://" view-date="2026-02-13" view-index="0" gantt-divider-location="301" resource-divider-location="300" version="3.3.3322" locale="en_ZA">
+    <description><![CDATA[Raspberry Pi Laparoscope - Skripsie
+Author: Pieter Breytenbach
+Student Number: 26122146]]></description>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="Name" width="162" order="0"/>
+        <field id="tpd4" name="Begin date" width="62" order="1"/>
+        <field id="tpd5" name="End date" width="62" order="2"/>
+        <field id="tpd15" name="Notes" width="20" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <option id="filter.dueTodayTasks" value="false"/>
+        <option id="filter.overdueTasks" value="false"/>
+        <option id="filter.inProgressTodayTasks" value="false"/>
+        <option id="color.recent"><![CDATA[#33ff00 #ff0033]]></option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" uid="76300f1e3eba475d99f1e4de1ce610c0" name="Proposal" meeting="false" start="2026-02-16" duration="12" complete="19" expand="true">
+            <task id="2" uid="b9b996c096354a5c8067fd5d66ca1d9b" name="Introduction" meeting="false" start="2026-02-16" duration="11" complete="50" expand="true">
+                <task id="3" uid="3c15c534656943028a0c34e78504e46b" name="Background" meeting="false" start="2026-02-16" duration="1" complete="100" expand="true">
+                    <depend id="9" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="4" uid="ef87a56d1dec4f26a032e2e76f7a4bbc" name="Aim and Objectives" meeting="false" start="2026-02-16" duration="1" complete="100" expand="true">
+                    <depend id="9" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="5" uid="3685713c46c2429bb08cf59834ae3350" name="Scope" meeting="false" start="2026-02-18" duration="1" complete="0" expand="true"/>
+                <task id="6" uid="f91e9faf8df548ffb52cb4355a209745" name="Motivation" meeting="false" start="2026-02-18" duration="1" complete="0" expand="true"/>
+                <task id="7" uid="025cf95216d942b7863dbd1d80734327" name="Use of AI tools" meeting="false" start="2026-02-16" duration="1" complete="100" expand="true">
+                    <depend id="9" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="8" uid="7826599fab5d468499e97e8c84c621ea" name="Report Overview" meeting="false" start="2026-02-27" duration="1" complete="0" expand="true">
+                    <depend id="23" type="2" difference="0" hardness="Strong"/>
+                </task>
+            </task>
+            <task id="9" uid="9965f738fb5a40128751414cba5b305d" name="Literature Review" meeting="false" start="2026-02-17" duration="3" complete="23" expand="true">
+                <depend id="22" type="2" difference="0" hardness="Strong"/>
+                <task id="20" uid="d79cb9f4c72e4ef4a543488d3625a3bf" name="Prelimanry Research" color="#33ff00" meeting="false" start="2026-02-17" duration="1" complete="70" expand="true">
+                    <depend id="5" type="2" difference="0" hardness="Strong"/>
+                    <depend id="6" type="2" difference="0" hardness="Strong"/>
+                    <depend id="21" type="2" difference="0" hardness="Strong"/>
+                </task>
+                <task id="21" uid="6b2d95494f0c48ea8b460514582b55e8" name="Documentation of Research" meeting="false" start="2026-02-18" duration="2" complete="0" expand="true"/>
+            </task>
+            <task id="13" uid="a75ab4bf650549a48ea1d865d9cc5263" name="Research Methodology" meeting="false" start="2026-02-23" duration="1" complete="0" expand="true">
+                <depend id="18" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="14" uid="dd84043fe490477f830b717ce909eaef" name="Workplan" meeting="false" start="2026-02-23" duration="1" complete="0" expand="true">
+                <depend id="17" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="15" uid="a32096ad67874a92a461e21902fd6384" name="Resource Requirements" meeting="false" start="2026-02-23" duration="1" complete="0" expand="true">
+                <depend id="18" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="16" uid="9b6acd60a0844781b5837b477e9b6ea7" name="Expected Results" meeting="false" start="2026-02-23" duration="1" complete="0" expand="true">
+                <depend id="18" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="17" uid="3e1c8434308c4b47a35041d13ea02687" name="Project Schedule" meeting="false" start="2026-02-24" duration="1" complete="0" expand="true">
+                <depend id="18" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="18" uid="1894c6ba97ba4ec1ab86d48413d25dcc" name="Risk Assement" meeting="false" start="2026-02-25" duration="1" complete="0" expand="true">
+                <depend id="19" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="19" uid="4e1b9d31c6234e158879dc2c926e65ae" name="Conclusion" meeting="false" start="2026-02-26" duration="1" complete="0" expand="true">
+                <depend id="8" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="22" uid="9659e2d1cb704a5b886b58279b8ffae9" name="Executive Summary" meeting="false" start="2026-02-20" duration="2" complete="0" expand="true">
+                <depend id="13" type="2" difference="0" hardness="Strong"/>
+                <depend id="14" type="2" difference="0" hardness="Strong"/>
+                <depend id="15" type="2" difference="0" hardness="Strong"/>
+                <depend id="16" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="23" uid="0e934cee5e8d423fa3d53f0e1f79dd9d" name="Proposal Checklist" color="#ff0033" meeting="false" start="2026-02-28" duration="1" complete="0" expand="true">
+                <depend id="24" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="24" uid="06df7e8820544f9bb8f77794b418cd12" name="Proposal Hand-in" meeting="true" start="2026-03-02" duration="0" complete="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>

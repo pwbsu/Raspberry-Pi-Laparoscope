@@ -1,0 +1,10 @@
+﻿@article{RN18,
+   author = {K, Dr},
+   title = {An Study of Research Methodology},
+   journal = {International Journal of Scientific Research in Science, Engineering and Technology},
+   pages = {537–543},
+   DOI = {10.32628/IJSRSET2293175},
+   year = {2022},
+   type = {Journal Article}
+}
+

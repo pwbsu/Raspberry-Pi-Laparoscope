@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  3 MAR 2026 12:25
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  3 MAR 2026 22:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1370,31 +1370,56 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen328
 \c@nlinenum=\count423
 \TeXr@lab=\toks45
+) (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
+\MT@toks=\toks46
+\MT@tempbox=\box135
+\MT@count=\count424
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks47
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen329
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count425
+ (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2025/07/09 v3.2b Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 443.
+LaTeX Info: Redefining \lslig on input line 451.
+\MT@outer@space=\skip94
 )
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 136.
+Package microtype Info: Loading configuration file microtype.cfg.
+ (c:/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 146.
  (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-front/chap-summary.aux) (./chaps-main/chap-intro.aux) (./chaps-main/chap-literature.aux) (./chaps-main/chap-content-A.aux) (./chaps-main/chap-conclusion.aux) (./chaps-append/chap-Estcost.aux) (./chaps-append/chap-GA.aux))
 \openout1 = `template-stb-report-eng.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1437,29 +1462,52 @@ File: stb-logo-vert.pdf Graphic file (type pdf)
 (c:/texlive/2025/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 136.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 146.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 136.
+Package hyperref Info: Link coloring ON on input line 146.
  (./template-stb-report-eng.out) (./template-stb-report-eng.out)
 \@outlinefile=\write4
 \openout4 = `template-stb-report-eng.out'.
 
+LaTeX Info: Redefining \microtypecontext on input line 146.
+Package microtype Info: Applying patch `item' on input line 146.
+Package microtype Info: Applying patch `toc' on input line 146.
+Package microtype Info: Applying patch `eqnum' on input line 146.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 146.
+
+Package microtype Info: Applying patch `verbatim' on input line 146.
+LaTeX Info: Redefining \microtypesetup on input line 146.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Cambria' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `CambriaMath' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 14.40152pt on input line 140.
+(Font)              scaled to size 14.40152pt on input line 150.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 140.
+(Font)              scaled to size 10.00107pt on input line 150.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 140.
+(Font)              scaled to size 7.00075pt on input line 150.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 140.
+(Font)              scaled to size 14.39845pt on input line 150.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 140.
+(Font)              scaled to size 9.99893pt on input line 150.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 140.
- [1
+(Font)              scaled to size 6.99925pt on input line 150.
+[1
 
 
 
@@ -1488,7 +1536,7 @@ File: figs/Signature.jpeg Graphic file (type bmp)
 \openout2 = `chaps-front/chap-AIdecleration.aux'.
 
  (./chaps-front/chap-AIdecleration.tex
-Overfull \hbox (1.76898pt too wide) in paragraph at lines 9--10
+Overfull \hbox (0.53299pt too wide) in paragraph at lines 9--10
 []\TU/Cambria(0)/m/n/12 I have verified and take responsibility for all information, arguments, data,
  []
 
@@ -1545,13 +1593,13 @@ Overfull \hbox (1.07765pt too wide) in paragraph at lines 6--7
  []
 
 
-Overfull \hbox (0.3296pt too wide) in paragraph at lines 13--15
-\TU/Cambria(0)/m/n/12 laparoscopy offers advantages including faster recovery rates and reduced mor-
+Overfull \hbox (1.58913pt too wide) in paragraph at lines 13--15
+\TU/Cambria(0)/m/n/12 bidity and patient discomfort, though it requires a steeper learning curve. These
  []
 
 
-Overfull \hbox (1.58913pt too wide) in paragraph at lines 13--15
-\TU/Cambria(0)/m/n/12 bidity and patient discomfort, though it requires a steeper learning curve. These
+Overfull \hbox (2.08696pt too wide) in paragraph at lines 21--23
+\TU/Cambria(0)/m/n/12 sual capabilities through several approaches. These approaches include increas-
  []
 
 [1
@@ -1559,7 +1607,7 @@ Overfull \hbox (1.58913pt too wide) in paragraph at lines 13--15
 
 
 ] [2] [3]
-Overfull \hbox (15.00124pt too wide) in paragraph at lines 92--94
+Overfull \hbox (13.00923pt too wide) in paragraph at lines 92--94
 \TU/Cambria(0)/m/n/12 the robot’s capabilities and flaws. However, they do not require expensive medical-
  []
 
@@ -1569,7 +1617,7 @@ Overfull \hbox (15.00124pt too wide) in paragraph at lines 92--94
  (./chaps-main/chap-literature.tex
 Chapter 2.
 
-Overfull \hbox (5.0298pt too wide) in paragraph at lines 7--8
+Overfull \hbox (3.0378pt too wide) in paragraph at lines 7--8
 [][][]\TU/Cambria(0)/b/n/12 Current Technological Advancements[][]: \TU/Cambria(0)/m/n/12 The current directions that mod-
  []
 
@@ -1592,14 +1640,10 @@ Overfull \hbox (0.50441pt too wide) in paragraph at lines 11--12
 File: figs/Endoscope.png Graphic file (type bmp)
 <figs/Endoscope.png>
  [7]
-Overfull \hbox (9.99303pt too wide) in paragraph at lines 63--64
-\TU/Cambria(0)/m/n/12 work in produce various products in the medical industry. ([][]karlstorz.com[][], [][]2026\TU/Cambria(0)/m/it/12 a[][]\TU/Cambria(0)/m/n/12 )
- []
-
 File: figs/TIPCAM1 RUBINA.png Graphic file (type bmp)
 <figs/TIPCAM1 RUBINA.png>
 
-Overfull \hbox (5.89015pt too wide) in paragraph at lines 74--75
+Overfull \hbox (3.89815pt too wide) in paragraph at lines 74--75
 \TU/Cambria(0)/m/n/12 Olympus Corporation is another company that supplies medical equipment glob-
  []
 
@@ -1612,7 +1656,7 @@ File: figs/Da Vinci SP.png Graphic file (type bmp)
 File: figs/Raspberry Pi Camera Module V3.png Graphic file (type bmp)
 <figs/Raspberry Pi Camera Module V3.png>
  [11] [12]
-Overfull \hbox (35.70201pt too wide) in paragraph at lines 245--246
+Overfull \hbox (34.10602pt too wide) in paragraph at lines 245--246
 \TU/Cambria(0)/m/n/12 This product however does have one flaw. Its focus depth is 1 m to inf.([][]store.arduino.cc[][],
  []
 
@@ -1626,13 +1670,13 @@ Overfull \hbox (4.9694pt too wide) in paragraph at lines 314--327
  []
 
 [14]
-Overfull \hbox (0.76515pt too wide) in paragraph at lines 345--346
-\TU/Cambria(0)/m/n/12 Another important aspect to considered is coding langauge used for this project.
+Overfull \hbox (5.70448pt too wide) in paragraph at lines 345--346
+\TU/Cambria(0)/m/n/12 Arduino is used then the ideal language to use is either C or C++. ([][]docs.arduino.cc[][],
  []
 
 
-Overfull \hbox (7.21286pt too wide) in paragraph at lines 345--346
-\TU/Cambria(0)/m/n/12 Arduino is used then the ideal langauge to use is either C or C++. ([][]docs.arduino.cc[][],
+Overfull \hbox (0.3332pt too wide) in paragraph at lines 353--354
+\TU/Cambria(0)/m/n/12 tion of the literature reviews aims to explain each of these factors. Consequently,
  []
 
 [15]) [16]
@@ -1641,8 +1685,8 @@ Overfull \hbox (7.21286pt too wide) in paragraph at lines 345--346
  (./chaps-main/chap-content-A.tex
 Chapter 3.
 
-Overfull \hbox (0.85695pt too wide) in paragraph at lines 30--32
-\TU/Cambria(0)/m/n/12 The second phase that needs to be completed is the concept development phase.
+Overfull \hbox (4.1757pt too wide) in paragraph at lines 15--17
+\TU/Cambria(0)/m/n/12 Since this project requires a design research methodology to be completed, there
  []
 
 [17
@@ -1666,6 +1710,10 @@ Chapter 4.
 ] (./template-stb-report-eng.bbl (./stb-bib.eng)
 LaTeX Font Info:    Font shape `TU/Consolas(0)/m/n' will be
 (Font)              scaled to size 10.42651pt on input line 28.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Consolas' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
 (Font)              scaled to size 10.95116pt on input line 28.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
@@ -1679,23 +1727,8 @@ LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 28.
 
-Overfull \hbox (705.0701pt too wide) in paragraph at lines 23--29
+Overfull \hbox (700.71645pt too wide) in paragraph at lines 23--29
 \TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--44
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--50
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--80
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][] [] [][] [] [][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][] []
  []
 
 [25
@@ -1704,48 +1737,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--80
 
 
 ]
-Underfull \hbox (badness 7203) in paragraph at lines 103--107
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--119
-[][][][][][][][][] [] [][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][] [] [][] [] [][][][][][][][][][][] [] [][][] [] [][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--119
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (1.43228pt too wide) in paragraph at lines 127--131
+Overfull \hbox (1.09283pt too wide) in paragraph at lines 127--131
 \TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--137
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--143
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][] [] [][][][][][][] [] [][] []
- []
-
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 184--189
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][][][] []
- []
-
-
-Overfull \hbox (112.63893pt too wide) in paragraph at lines 184--189
+Overfull \hbox (108.62473pt too wide) in paragraph at lines 184--189
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--208
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][] [] [][][][][][][][] []
  []
 
 ) [27]
@@ -1760,111 +1758,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--208
 \openout2 = `chaps-append/chap-GA.aux'.
 
  (./chaps-append/chap-GA.tex
-Underfull \hbox (badness 1867) in paragraph at lines 24--25
-\TU/Cambria(0)/m/n/12 lems reaching substantiated con-
- []
-
-
-Underfull \hbox (badness 3138) in paragraph at lines 24--25
-\TU/Cambria(0)/m/n/12 clusions using first principles of
- []
-
-
-Underfull \hbox (badness 1137) in paragraph at lines 29--30
-[]|\TU/Cambria(0)/b/n/12 GA 2 - Application of scientific
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 29--30
-\TU/Cambria(0)/m/n/12 solutions to complex engineering
- []
-
-
-Underfull \hbox (badness 1189) in paragraph at lines 31--32
-[]|\TU/Cambria(0)/m/n/12 GA 2 will be satified during sec-
- []
-
-
-Underfull \hbox (badness 6510) in paragraph at lines 31--32
-\TU/Cambria(0)/m/n/12 tion and selection will be con-
- []
-
-
-Underfull \hbox (badness 1845) in paragraph at lines 31--32
-\TU/Cambria(0)/m/n/12 ducted. It will also be satisfied
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 34--35
-\TU/Cambria(0)/m/n/12 engineering problems and design
- []
-
-
-Underfull \hbox (badness 2229) in paragraph at lines 36--37
-[]|\TU/Cambria(0)/m/n/12 This GA will be satisfied by fol-
- []
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 36--37
-\TU/Cambria(0)/m/n/12 lection, design detail design pro-
- []
-
-
-Underfull \hbox (badness 2512) in paragraph at lines 39--40
-\TU/Cambria(0)/m/n/12 and modelling, to complex engi-
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 44--45
-\TU/Cambria(0)/m/n/12 taking into account cultural, lan-
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 49--50
-[]|\TU/Cambria(0)/b/n/12 GA 8 - Individual and collabo-
- []
-
-
-Underfull \hbox (badness 5667) in paragraph at lines 49--50
-\TU/Cambria(0)/b/n/12 rative teamwork: \TU/Cambria(0)/m/n/12 Demonstrate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\TU/Cambria(0)/m/n/12 competence to function effec-
- []
-
-
-Underfull \hbox (badness 2875) in paragraph at lines 49--50
-\TU/Cambria(0)/m/n/12 tively as an individual and as a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\TU/Cambria(0)/m/n/12 inclusive teams, and in multi-
- []
-
-
-Underfull \hbox (badness 6608) in paragraph at lines 49--50
-\TU/Cambria(0)/m/n/12 disciplinary, face-to-face, remote
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 51--52
-[]|\TU/Cambria(0)/m/n/12 This GA will be satisfied during
- []
-
-
-Underfull \hbox (badness 2409) in paragraph at lines 54--55
-[]| \TU/Cambria(0)/b/n/12 GA 9 - Independent Learning
- []
-
-
-Underfull \hbox (badness 3128) in paragraph at lines 54--55
-\TU/Cambria(0)/m/n/12 to engage in independent learn-
- []
-
-./chaps-append/chap-GA.tex:62: ignored error: Infinite glue shrinkage found in box being split [30
+./chaps-append/chap-GA.tex:69: ignored error: Infinite glue shrinkage found in box being split [30
 
 
 
@@ -1879,12 +1773,12 @@ Package rerunfilecheck Info: File `template-stb-report-eng.out' has not changed.
 (rerunfilecheck)             Checksum: CC5F401808A828F3285FD742C71070E6;7645.
  ) 
 Here is how much of TeX's memory you used:
- 36405 strings out of 468174
- 774036 string characters out of 5436827
- 1293026 words of memory out of 5000000
- 64477 multiletter control sequences out of 15000+600000
+ 38104 strings out of 468174
+ 804979 string characters out of 5436827
+ 1349668 words of memory out of 5000000
+ 66167 multiletter control sequences out of 15000+600000
  633194 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,17n,115p,953b,1192s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,115p,2346b,1210s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on template-stb-report-eng.pdf (39 pages).

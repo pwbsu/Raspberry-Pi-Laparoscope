@@ -25,18 +25,18 @@
 \contentsline {subsection}{\numberline {3.2.1}Literature Review}{18}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Component Review}{18}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Compile Design Requirements for Laparoscope}{18}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Generate Concept Design for Laparoscope}{19}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.4}Generate Concept Design for Laparoscope}{18}{subsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.2.5}Finalise Detail Design for Laparoscope}{19}{subsection.3.2.5}%
 \contentsline {subsection}{\numberline {3.2.6}Compile Design Requirements for Test Station}{19}{subsection.3.2.6}%
 \contentsline {subsection}{\numberline {3.2.7}Generate Concept Design for Test Station}{19}{subsection.3.2.7}%
 \contentsline {subsection}{\numberline {3.2.8}Finalise Detail Design for Test Station}{19}{subsection.3.2.8}%
 \contentsline {subsection}{\numberline {3.2.9}Construct and Implement Laparoscope}{19}{subsection.3.2.9}%
 \contentsline {subsection}{\numberline {3.2.10}Construct Test Station}{19}{subsection.3.2.10}%
-\contentsline {subsection}{\numberline {3.2.11}Perform Functionality Test}{20}{subsection.3.2.11}%
+\contentsline {subsection}{\numberline {3.2.11}Perform Functionality Test}{19}{subsection.3.2.11}%
 \contentsline {subsection}{\numberline {3.2.12}Evaluate Laparoscope}{20}{subsection.3.2.12}%
 \contentsline {subsection}{\numberline {3.2.13}Documentation}{20}{subsection.3.2.13}%
 \contentsline {section}{\numberline {3.3}Resource Requirements}{20}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Expected Results}{21}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Expected Results}{20}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Project Schedule}{22}{section.3.5}%
 \contentsline {section}{\numberline {3.6}Risk Assessment}{23}{section.3.6}%
 \contentsline {chapter}{\numberline {4}Conclusions}{24}{chapter.4}%

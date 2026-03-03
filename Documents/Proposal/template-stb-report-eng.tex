@@ -98,6 +98,16 @@
 \usepackage{multirow}
 \usepackage{multicol}
 \usepackage{makecell}
+\usepackage{microtype}
+\hbadness=10000
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\LT@array}
+  {\@mkpream{#2}}
+  {\@mkpream{#2}\LTpre=\z@}
+  {}{}
+\makeatother
 
 \pagestyle{fancy}
 \fancyhf{}

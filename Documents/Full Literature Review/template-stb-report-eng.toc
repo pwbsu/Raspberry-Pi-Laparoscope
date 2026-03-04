@@ -1,0 +1,12 @@
+\contentsline {chapter}{List of figures}{v}{chapter*.6}%
+\contentsline {chapter}{List of tables}{vi}{chapter*.7}%
+\contentsline {chapter}{\numberline {1}Literature Review}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Laparoscopy Overview}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Current Technological Advancements}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Current Available Technology}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Available Hardware Components}{5}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Single Board Computer Module}{5}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Camera Module}{6}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Software Considerations}{9}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Visual Inspection Considerations}{10}{section.1.6}%
+\contentsline {chapter}{List of references}{12}{chapter*.21}%

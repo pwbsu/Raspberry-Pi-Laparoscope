@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  3 MAR 2026 22:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  4 MAR 2026 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/piete/Desktop/Skripsie/Documents/Proposal/template-stb-report-eng
-(c:/Users/piete/Desktop/Skripsie/Documents/Proposal/template-stb-report-eng.tex
+**"c:/Users/piete/Desktop/Skripsie/Documents/Full Literature Review/template-stb-report-eng"
+(c:/Users/piete/Desktop/Skripsie/Documents/Full Literature Review/template-stb-report-eng.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/book.cls
@@ -1397,7 +1397,7 @@ File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 LaTeX Info: Redefining \microtypesetup on input line 3065.
 )
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 140.
- (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-front/chap-summary.aux) (./chaps-main/chap-intro.aux) (./chaps-main/chap-literature.aux) (./chaps-main/chap-content-A.aux) (./chaps-main/chap-conclusion.aux) (./chaps-append/chap-Estcost.aux) (./chaps-append/chap-GA.aux))
+ (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-main/chap-literature.aux))
 \openout1 = `template-stb-report-eng.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
@@ -1545,74 +1545,51 @@ LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
 
 
 
-]
-\openout2 = `chaps-front/chap-summary.aux'.
-
- (./chaps-front/chap-summary.tex) [4
-
-
-
-
-] (./template-stb-report-eng.toc [5
-
-
-
-])
+] (./template-stb-report-eng.toc)
 \tf@toc=\write5
 \openout5 = `template-stb-report-eng.toc'.
 
- [6] (./template-stb-report-eng.lof)
+ [4
+
+
+
+] (./template-stb-report-eng.lof)
 \tf@lof=\write6
 \openout6 = `template-stb-report-eng.lof'.
 
- [7
+ [5
 
 ] (./template-stb-report-eng.lot)
 \tf@lot=\write7
 \openout7 = `template-stb-report-eng.lot'.
 
- [8
+ [6
 
 ]
-\openout2 = `chaps-main/chap-intro.aux'.
-
- (./chaps-main/chap-intro.tex
-Chapter 1.
-[1
-
-
-
-] [2] [3]
-Overfull \hbox (13.00923pt too wide) in paragraph at lines 92--94
-\TU/Cambria(0)/m/n/12 the robot’s capabilities and flaws. However, they do not require expensive medical-
- []
-
-[4]) [5]
 \openout2 = `chaps-main/chap-literature.aux'.
 
  (./chaps-main/chap-literature.tex
-Chapter 2.
-[6
-
+Chapter 1.
+[1
 
 
 
 ]
 File: figs/Endoscope.png Graphic file (type bmp)
 <figs/Endoscope.png>
- [7]
+ [2]
 File: figs/TIPCAM1 RUBINA.png Graphic file (type bmp)
 <figs/TIPCAM1 RUBINA.png>
- [8]
+ [3]
 File: figs/ENDOEYE 3D 10mm.png Graphic file (type bmp)
 <figs/ENDOEYE 3D 10mm.png>
 File: figs/Da Vinci SP.png Graphic file (type bmp)
 <figs/Da Vinci SP.png>
- [9] [10]
+ [4] [5]
 File: figs/Raspberry Pi Camera Module V3.png Graphic file (type bmp)
 <figs/Raspberry Pi Camera Module V3.png>
- [11] [12]
-Overfull \hbox (34.10602pt too wide) in paragraph at lines 245--246
+ [6] [7]
+Overfull \hbox (34.10602pt too wide) in paragraph at lines 243--244
 \TU/Cambria(0)/m/n/12 This product however does have one flaw. Its focus depth is 1 m to inf.([][]store.arduino.cc[][],
  []
 
@@ -1620,40 +1597,17 @@ File: figs/Arducam Spy camera.png Graphic file (type bmp)
 <figs/Arducam Spy camera.png>
 File: figs/IADIY camera module.png Graphic file (type bmp)
 <figs/IADIY camera module.png>
-[13]
-Overfull \hbox (4.9694pt too wide) in paragraph at lines 314--327
+[8]
+Overfull \hbox (4.9694pt too wide) in paragraph at lines 312--325
  [][] 
  []
 
-[14]
-Overfull \hbox (5.70448pt too wide) in paragraph at lines 345--346
+[9]
+Overfull \hbox (5.70448pt too wide) in paragraph at lines 343--344
 \TU/Cambria(0)/m/n/12 Arduino is used then the ideal language to use is either C or C++. ([][]docs.arduino.cc[][],
  []
 
-[15]) [16]
-\openout2 = `chaps-main/chap-content-A.aux'.
-
- (./chaps-main/chap-content-A.tex
-Chapter 3.
-[17
-
-
-
-
-] [18] [19] [20] [21]
-File: gantt_chart.pdf Graphic file (type pdf)
-<use gantt_chart.pdf, page 10>
- [22]) [23]
-\openout2 = `chaps-main/chap-conclusion.aux'.
-
- (./chaps-main/chap-conclusion.tex
-Chapter 4.
-) [24
-
-
-
-
-] (./template-stb-report-eng.bbl (./stb-bib.eng)
+[10]) [11] (./template-stb-report-eng.bbl (./stb-bib.eng)
 LaTeX Font Info:    Font shape `TU/Consolas(0)/m/n' will be
 (Font)              scaled to size 10.42651pt on input line 28.
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1677,7 +1631,7 @@ Overfull \hbox (700.71645pt too wide) in paragraph at lines 23--29
 \TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-[25
+[12
 
 
 
@@ -1687,44 +1641,26 @@ Overfull \hbox (1.09283pt too wide) in paragraph at lines 127--131
 \TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[][] 
  []
 
-[26]
-Overfull \hbox (108.62473pt too wide) in paragraph at lines 184--189
+[13]
+Overfull \hbox (108.62473pt too wide) in paragraph at lines 190--195
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-) [27]
-\openout2 = `chaps-append/chap-Estcost.aux'.
-
- (./chaps-append/chap-Estcost.tex [28
-
-
-] [29
-
-])
-\openout2 = `chaps-append/chap-GA.aux'.
-
- (./chaps-append/chap-GA.tex
-./chaps-append/chap-GA.tex:69: ignored error: Infinite glue shrinkage found in box being split [30
-
-
-
-
-
-]) [31] (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-front/chap-summary.aux) (./chaps-main/chap-intro.aux) (./chaps-main/chap-literature.aux) (./chaps-main/chap-content-A.aux) (./chaps-main/chap-conclusion.aux) (./chaps-append/chap-Estcost.aux) (./chaps-append/chap-GA.aux))
+) [14] (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-main/chap-literature.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `template-stb-report-eng.out' has not changed.
-(rerunfilecheck)             Checksum: CC5F401808A828F3285FD742C71070E6;7645.
+(rerunfilecheck)             Checksum: 566E45C27F04AD8647CB13F0AB9955B7;2043.
  ) 
 Here is how much of TeX's memory you used:
- 38102 strings out of 468174
- 804974 string characters out of 5436827
- 1349668 words of memory out of 5000000
- 66165 multiletter control sequences out of 15000+600000
- 633194 words of font info for 132 fonts, out of 8000000 for 9000
+ 37917 strings out of 468174
+ 798604 string characters out of 5436827
+ 1336019 words of memory out of 5000000
+ 66025 multiletter control sequences out of 15000+600000
+ 633186 words of font info for 131 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,17n,115p,1067b,1210s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,115p,1083b,1210s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on template-stb-report-eng.pdf (39 pages).
+Output written on template-stb-report-eng.pdf (20 pages).

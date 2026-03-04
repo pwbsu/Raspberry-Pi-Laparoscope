@@ -1,0 +1,109 @@
+\chapter{Introduction}
+
+\section{Background}
+\label{sec:Background}
+
+The Hippocratic Oath is a fundamental principle that guides decisions and advancements in the medical profession. It motivates doctors and physicians to make ethical decisions to minimize patient harm. It also drives physicians to continuously improve practices to reduce surgical risks and complications. This principle has driven the discovery of minimally invasive surgery (MIS). \citep{FIS-2021}
+
+\vspace{0.5cm}
+\noindent
+Minimally invasive surgery has become the standard practice across surgical fields and is a rapidly growing division in the medical industry. One branch of this field is laparoscopy, which is used to perform advanced and complex surgical procedures. \citep{FIS-2021}
+
+\vspace{0.5cm}
+\noindent
+Laparoscopy is surgical approach where small incisions are made to allow insertion of specialized equipment into the patient’s body. The primary instrument is the laparoscope, which is typically paired with other thin rod equipment based on the operations demands.  Compared to traditional open surgery, laparoscopy offers advantages including faster recovery rates and reduced morbidity and patient discomfort, though it requires a steeper learning curve. These benefits translate to cost savings through shorter hospital stays and reduced analgesic requirements. \citep{AIP-2018}
+
+\vspace{0.5cm}
+\noindent
+The laparoscope is a fundamental instrument to laparoscopic surgery. It consists of a thin rod with an attached camera that is inserted into the patient’s body. The captured footage is displayed in real-time to the surgical staff on a monitor. Based on the visible footage, the surgical staff make diagnosis, perform procedures, and coordinate instrument positioning based on the visual feedback. \citep{FIS-2021}
+
+\vspace{0.5cm}
+\noindent
+Recent advancements in laparoscopy focus on improving the laparoscope’s visual capabilities through several approaches. These approaches include increasing the camera’s field of view, implementing three-dimensional (3D) visualization, and incorporating artificial intelligence (AI) or machine vision technologies to captured footage. Additional advancement made to modern laparoscopes is the utilization of robotic manipulators, with 3 or more degrees of freedom (DOF) to assist the doctor during operations. \citep{AIP-2018}
+
+\vspace{0.5cm}
+\noindent
+One of the main challenges of laparoscopic surgery is that it is a technically complex surgery to perform. Thus, more training is required by inexperienced surgeons. However, laparoscopes are expensive equipment which makes them inaccessible to individual practitioners or small hospitals to purchase. \citep{JSE-2014}
+
+\vspace{0.5cm}
+\noindent
+Therefore, there is a need of a low-cost laparoscope.
+
+
+\section{Objectives}
+
+The aim of this project is to design, build and test a low-cost laparoscope.
+
+This project's main objectives are to:
+\begin{itemize}
+    \item Design, build and program a functional laparoscope by incorporating various Raspberry Pi components.
+    \item Design a performance test to assess the laparoscope functionality and image quality abilities.
+    \item Evaluate the developed laparoscope performance after performing the test.
+\end{itemize}
+
+\section{Scope}
+\label{sec:Scope}
+
+To develop the laparoscope, there is a various components that needs to be considered. The main 3 components are that of design, hardware and software. And each has component has their own set of scopes that need to be considered. These scopes are subject to change based on the timeline of the project and change of desired objectives of the project.
+
+\subsection{Design Component}
+
+For the design component of the project, the only thing that is required is to design a functional laparoscope. The end product should look and function like a medical-grade laparoscope, however, it does not require to be built out of medical-grade material, since it would not be used on actual patients. All hardware components should be secure and covered within the design to prevent any damage.
+
+\vspace{0.5cm}
+\noindent
+The viewing angle, the angle between the optical axis of the camera and the laparoscope axial axis, should aimed to be 30 degrees, as per standard laparoscopes. The viewing angle does not require to be changeable during or between operations. Consequently, no degrees of freedom are required for the final design of the product.
+
+\vspace{0.5cm}
+\noindent
+To determine the developed product capabilities, a test is required. A physical box trainer is an ideal product to determine the laparoscope's capability. The mechanical and mechatronic department in Stellenbosch University, however, does not have this product available. Therefore, a physical box trainer or similar product has to be design and build to determine and demonstrate the developed laparoscope's functionality. This design and manufacturing of the testing station is within the project's scope. 
+
+\subsection{Hardware Component}
+
+The hardware component is the critical for this project's success. Therefore, it is important to determine what is within the project's scope for this section. For acquiring the various hardware modules, it is not required to design the physical components, themselves. Rather, available products will be purchased to fulfil any hardware required for the project. Hence, proper analysis of available products is required to fulfil the main objectives and satisfy the desired outcomes of the projects. However, if the need comes forth, certain hardware modules could require modification, based on the products that is purchased. These modifications does fall into the project's scope.
+
+\vspace{0.5cm}
+\noindent
+It is also within the projects scopes to determine how all of the various different modules are interconnected. These connection can vary from physical to wireless connectivity, but proper consideration should be given when designing the system. Power supply, illumination and circuit design is within the project's scope and should be given proper consideration.
+
+\subsection{Software Component}
+\label{sec:Software Component}
+
+The software component of this project is a subject to change, based on the outcomes of the visual capabilities of the laparoscope during testing phases. Currently, there is 3 main categories of the software component: Visual, connectivity and miscellaneous.
+
+\vspace{0.5cm}
+\noindent
+The visual category refers to program required to operate the camera module of the laparoscope. This includes signal processing and real-time digital image enhancement. The real-time digital image enhancement, however, has it own scope. It is only required to enhance the image to determine the laparoscopes visual capabilities. Therefore, it is not required to extract information from the real-time images or incorporate Artificial Intelligence or 3D visualization to the program.
+
+\vspace{0.5cm}
+\noindent
+To determine the laparoscopes real-time visual capabilities, it is required to display the real-time images on a monitor . As a result, the laparoscope's program should communicate with the monitor either through a cable or wireless connection, based on the hardware decision. Henceforth, the program should incorporate the communication between the 2 or more devices.
+
+\vspace{0.5cm}
+\noindent
+The miscellaneous section of the program is small features that adds value to the developed laparoscope. These small features includes function that stores the captured footage on a external storage or utilizes the pins of Raspberry Pi module to indicate status signals of the laparoscope. These features are not critical to the project, but adds value to the end product.
+
+
+\section{Motivation}
+
+As mentioned in the \textit{\hyperref[sec:Background]{Background}}, the main challenge with laparoscopic surgery is that it is a technically more complex procedure to perform, compared to open surgery. Thus, inexperienced surgeons require more training with the laparoscope and its additional equipment to achieve proficiency. However, laparoscopes are expensive surgical equipment, that isn't affordable investment for individuals or small medical facilities.
+
+\vspace{0.5cm}
+\noindent
+This project could also add value to the development of new medical robots. Most preliminary designs of medical robots require laparoscopes that can test the robot's capabilities and flaws. However, they do not require expensive medical-grade laparoscopes, rather, low-cost alternatives are preferable, as they minimize financial loss if damaged during testing or development. 
+
+\vspace{0.5cm}
+\noindent
+This project can also prove if low-cost medical-grade laparoscopes with inexpensive hardware components are achievable for surgical operations. For resource limited settings, this can be extremely valuable due to it improving the healthcare of these settings. It would also enhance the trust of the community in its local medical services.
+
+\vspace{0.5cm}
+\noindent
+By developing a low-cost, functional laparoscope, this projects contributes to improved surgical training accessibility, supports the development of medical robots, and demonstrates the feasibility of affordable medical technology for low-resource medical facilities.
+
+\section{Use of AI Tools}
+
+Anthropic is the main Artificial Intelligence (AI) company that will be used for this project, specifically its Claude Sonnet 4.5 model. This AI model assisted with research papers identification, sentence construction, grammar checks and code debugging. All AI-generated material will be reviewed and verified by the student to ensure the integrity and originality of the provided work. 
+
+\section{Proposal Overview}
+
+This proposal aims to enlighten the reader of the various sections of work required to perform this project. The \textit{\hyperref[sec:Literature Review]{Literature Review}} chapter informs of the history of laparoscopy, afterwards it explains various segments of the work required to understand to complete the project. The \textit{\hyperref[sec:Content Chapter]{Content Chapter}} aims to provide an overview of the entirety of the project work procedures. It describes the research methodology utilized; the workplan; the resources required; the expected results; the schedule, including a \hyperref[fig:gantt]{gantt chart}; and  the risks associated with this project. The last chapter of this proposal, \textit{\hyperref[sec:Conclusion]{Conclusion}}, provides a final motivation why this project should be performed.

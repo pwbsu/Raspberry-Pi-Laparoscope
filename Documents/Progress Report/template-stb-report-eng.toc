@@ -1,0 +1,46 @@
+\contentsline {chapter}{List of figures}{vii}{chapter*.7}%
+\contentsline {chapter}{List of tables}{viii}{chapter*.8}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objectives}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Scope}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Design Component}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Hardware Component}{3}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Software Component}{3}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Motivation}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Use of AI Tools}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Proposal Overview}{5}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Literature Review}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Laparoscopy Overview}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Current Technological Advancements}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Current Available Technology}{8}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Available Hardware Components}{10}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Single Board Computer Module}{10}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Camera Module}{11}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Software Considerations}{14}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Visual Inspection Considerations}{15}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Content Chapter}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Methodology}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Workplan}{18}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Literature Review}{18}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Component Review}{18}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Compile Design Requirements for Laparoscope}{18}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Generate Concept Design for Laparoscope}{18}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Finalise Detail Design for Laparoscope}{19}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Compile Design Requirements for Test Station}{19}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Generate Concept Design for Test Station}{19}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.8}Finalise Detail Design for Test Station}{19}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3.2.9}Construct and Implement Laparoscope}{19}{subsection.3.2.9}%
+\contentsline {subsection}{\numberline {3.2.10}Construct Test Station}{19}{subsection.3.2.10}%
+\contentsline {subsection}{\numberline {3.2.11}Perform Functionality Test}{19}{subsection.3.2.11}%
+\contentsline {subsection}{\numberline {3.2.12}Evaluate Laparoscope}{20}{subsection.3.2.12}%
+\contentsline {subsection}{\numberline {3.2.13}Documentation}{20}{subsection.3.2.13}%
+\contentsline {section}{\numberline {3.3}Resource Requirements}{20}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Expected Results}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Project Schedule}{22}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Risk Assessment}{23}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Conclusions}{24}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Conclusion}{24}{section.4.1}%
+\contentsline {chapter}{List of references}{25}{chapter*.23}%
+\contentsline {chapter}{Estimated Cost per Activity}{28}{appendix*.24}%
+\contentsline {chapter}{GA Self Assessment}{30}{appendix*.26}%

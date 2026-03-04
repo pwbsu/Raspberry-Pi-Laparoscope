@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template-stb-report-eng.aux
+The style file: stb-bib-eng-a.bst
+A level-1 auxiliary file: chaps-front/chap-plagiarism.aux
+A level-1 auxiliary file: chaps-front/chap-AIdecleration.aux
+A level-1 auxiliary file: chaps-main/chap-literature.aux
+Database file #1: bib/bib-sample.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 27 entries,
+            3324 wiz_defined-function locations,
+            809 strings with 9030 characters,
+and the built_in function-call counts, 15477 in all, are:
+= -- 1154
+> -- 366
+< -- 30
++ -- 150
+- -- 117
+* -- 1192
+:= -- 2220
+add.period$ -- 81
+call.type$ -- 27
+change.case$ -- 198
+chr.to.int$ -- 23
+cite$ -- 27
+duplicate$ -- 1487
+empty$ -- 1408
+format.name$ -- 228
+if$ -- 3011
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 232
+newline$ -- 181
+num.names$ -- 108
+pop$ -- 563
+preamble$ -- 1
+purify$ -- 147
+quote$ -- 0
+skip$ -- 448
+stack$ -- 0
+substring$ -- 645
+swap$ -- 633
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 243
+warning$ -- 0
+while$ -- 149
+width$ -- 0
+write$ -- 396

@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{21}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname bibnamefont\endcsname\relax
   \def\bibnamefont#1{#1}\fi
@@ -48,24 +48,6 @@
 \newblock \bbltechrep{}, Cambridge in Colour.
 \newline\bblurlpre\url{https://www.cambridgeincolour.com/tutorials/camera-sensors.htm}
 
-\bibitem[{\citenamefont{camemake.eu}(2026{\natexlab{\emph{a}}})}]{CM-ECM}
-\bibnamefont{camemake.eu} (2026{\natexlab{\emph{a}}}).
-\newblock Endoscope camera module.
-\newblock \bbltechrep{}, Motoshot Technology Co., Ltd.
-\newline\bblurlpre\url{https://www.camemake.com/endoscope-camera-module/}
-
-\bibitem[{\citenamefont{camemake.eu}(2026{\natexlab{\emph{b}}})}]{CM-HP}
-\bibnamefont{camemake.eu} (2026{\natexlab{\emph{b}}}).
-\newblock Home page.
-\newblock \bbltechrep{}, Motoshot Technology Co., Ltd.
-\newline\bblurlpre\url{https://www.camemake.eu/}
-
-\bibitem[{\citenamefont{cameramodule.com}(2026)}]{SF-AU}
-\bibnamefont{cameramodule.com} (2026).
-\newblock About us.
-\newblock \bbltechrep{}, Guangzhou Sincere Informtation Technology Ltd.
-\newline\bblurlpre\url{https://www.cameramodule.com/about-us}
-
 \bibitem[{\citenamefont{docs.arduino.cc}(2026)}]{A-DOC}
 \bibnamefont{docs.arduino.cc} (2026).
 \newblock Language reference.
@@ -77,12 +59,6 @@
 \newblock Endoscope design and assembly.
 \newblock \bbltechrep{}, EBME and Clinical Engineering Articles.
 \newline\bblurlpre\url{https://www.ebme.co.uk/articles/clinical-engineering/endoscope-design-and-assembly}
-
-\bibitem[{\citenamefont{iadiy.com}(2026)}]{I-E}
-\bibnamefont{iadiy.com} (2026).
-\newblock Endoscope camera module 0.3m - scm03m30d5.5u.
-\newblock \bbltechrep{}, IADIY Technology.
-\newline\bblurlpre\url{https://www.iadiy.com/endoscope-camera-module-SCM1M30D5.5U}
 
 \bibitem[{\citenamefont{Ibrahim} \emph{\bbletal{}}(2021)\citenamefont{Ibrahim},
   \citenamefont{Ulrich}, \citenamefont{Liselotte}, \citenamefont{Julian},
@@ -123,12 +99,6 @@
 \newblock \bbltechrep{}, Leopard Imaging.
 \newline\bblurlpre\url{https://leopardimaging.com/hummingbird/}
 
-\bibitem[{\citenamefont{mechatronicslab.net}(2026)}]{ML-USB}
-\bibnamefont{mechatronicslab.net} (2026).
-\newblock How to use a usb camera with raspberry pi: A complete guide.
-\newblock \bbltechrep{}, MechatronicsLab.
-\newline\bblurlpre\url{https://mechatronicslab.net/usb-camera-with-raspberry-pi/}
-
 \bibitem[{\citenamefont{Morrow}(2026)}]{DM-FOW}
 \bibnamefont{Morrow}, \bibfnamefont{D.} (2026).
 \newblock Ultimate depth of field photography guide [2026].
@@ -159,11 +129,11 @@
 \newblock \bbltechrep{}, Raspberry Pi Ltd.
 \newline\bblurlpre\url{https://www.raspberrypi.com/products/}
 
-\bibitem[{\citenamefont{sincerefirst.com}(2026)}]{SF-CM}
-\bibnamefont{sincerefirst.com} (2026).
-\newblock Sincerefirst camera modules.
-\newblock \bbltechrep{}, Guangzhou Sincere Information Technology Ltd.
-\newline\bblurlpre\url{https://www.sincerefirst.com/camera-modules}
+\bibitem[{\citenamefont{robotics.org.za}(2026)}]{MR-P}
+\bibnamefont{robotics.org.za} (2026).
+\newblock Home page.
+\newblock \bbltechrep{}, Micro Robotics (Pty) Ltd.
+\newline\bblurlpre\url{https://www.robotics.org.za/}
 
 \bibitem[{\citenamefont{store.arduino.cc}(2026)}]{A-P}
 \bibnamefont{store.arduino.cc} (2026).
@@ -180,12 +150,11 @@
   instruments.
 \newblock \emph{AIP Conference Proceedings}, \bblvol{} 1933, \bblno{}~1.
 
-\bibitem[{\citenamefont{uk.mathworks.com}(2021)}]{MW-TS}
-\bibnamefont{uk.mathworks.com} (2021).
-\newblock Analysis and visualization in thingspeak | iot from data to action,
-  part 3.
-\newblock \bbltechrep{}, MathWorks.
-\newline\bblurlpre\url{https://uk.mathworks.com/videos/iot-from-data-to-action-part-3-analysis-and-visualization-in-thingspeak-1636518392837.html}
+\bibitem[{\citenamefont{visionmeta.com}(2026)}]{VM-P}
+\bibnamefont{visionmeta.com} (2026).
+\newblock 1mp 3.3/3.5/3.9mm ov9734 hd endoscope medical camera module.
+\newblock \bbltechrep{}, Shenzhen VisionMeta Technology Co,. Ltd.
+\newline\bblurlpre\url{https://www.visionmeta.com/product-category/feature/endoscope/endoscope-diameter/3-5mm-endoscope/}
 
 \bibitem[{\citenamefont{Xiao} \emph{\bbletal{}}(2014)\citenamefont{Xiao},
   \citenamefont{Jakimowicz}, \citenamefont{Albayrak}, \citenamefont{Buzink},
@@ -199,11 +168,5 @@
   simulator for basic laparoscopic skills.
 \newblock \emph{Journal of surgical education}, \bblvol{}~71, \bblno{}~1,
   \bblp{} 65–72.
-
-\bibitem[{\citenamefont{Yu}(2026)}]{VS-LW}
-\bibnamefont{Yu}, \bibfnamefont{J.} (2026).
-\newblock Latex workshop.
-\newblock \bbltechrep{}, Visual Studio.
-\newline\bblurlpre\url{https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop}
 
 \end{thebibliography}

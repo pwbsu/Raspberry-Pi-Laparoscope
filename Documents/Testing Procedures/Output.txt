@@ -1,0 +1,27 @@
+==================================================
+FINAL HEAT DISSIPATION REPORT
+==================================================
+Starting temperature:  23.40°C
+Ending temperature:    26.51°C
+Total change:          3.11°C
+Maximum temperature:   29.72°C
+Minimum temperature:   23.40°C
+Total alarms triggered: 0
+==================================================
+All averages:
+  Reading 1 (0 min): 23.40°C
+  Reading 2 (10 min): 26.77°C
+  Reading 3 (20 min): 25.13°C
+  Reading 4 (30 min): 24.99°C
+  Reading 5 (40 min): 25.04°C
+  Reading 6 (50 min): 25.14°C
+  Reading 7 (60 min): 28.34°C
+  Reading 8 (70 min): 29.19°C
+  Reading 9 (80 min): 29.72°C
+  Reading 10 (90 min): 28.91°C
+  Reading 11 (100 min): 28.27°C
+  Reading 12 (110 min): 26.51°C
+Test complete!
+
+
+2821F096000000D1 Sensor

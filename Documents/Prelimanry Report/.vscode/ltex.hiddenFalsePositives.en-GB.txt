@@ -1,0 +1,2 @@
+{"rule":"CD_NN","sentence":"^\\QSensor 2 vs calibrated sensor\\E$"}
+{"rule":"EN_COMPOUNDS_MULTI_DISCIPLINARY","sentence":"^\\QGA 8 - Individual and collaborative teamwork: Demonstrate competence to function effectively as an individual and as a member or leader in diverse and inclusive teams, and in multi-disciplinary, face-to-face, remote and distributed settings.\\E$"}

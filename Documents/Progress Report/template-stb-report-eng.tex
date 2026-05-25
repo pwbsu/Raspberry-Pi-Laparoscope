@@ -89,6 +89,7 @@
 }
 
 \usepackage{subcaption}
+\usepackage{xurl}
 \usepackage{float}
 \usepackage{fancyhdr}
 \usepackage{pdflscape}
@@ -99,9 +100,12 @@
 \usepackage{multicol}
 \usepackage{makecell}
 \usepackage{microtype}
+
+\usepackage[title, titletoc]{appendix}
 \hbadness=10000
 \hfuzz = 5pt
 
+% \renewcommand{\thetable}{\thechapter.\arabic{table}}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -123,7 +127,7 @@
 
 %==== Title Page =====================================================
 \title{\textbf{Raspberry Pi Laparoscope}\\[2ex]
-       \large Mechatronic Project 478\\Proposal\\[2ex]}                   
+       \large Mechatronic Project 478\\Progress Report\\[2ex]}                   
 \author{\Large Author: Pieter Willem Breytenbach\\ 
         \large 26122146 \\[5ex]
         \Large Supervisor: Prof K. Schreve}                
@@ -168,11 +172,12 @@
 \backmatter%----------------------------------------------------------
 \bibliography{bib/bib-sample}
 
+\appendix
 
-\appendix%------------------------------------------------------------
-\include{chaps-append/chap-Estcost}
-\include{chaps-append/chap-GA}
-
+\begin{appendices}%------------------------------------------------------------
+    \include{chaps-append/chap-Estcost}
+    \include{chaps-append/chap-GA}
+\end{appendices}
  
 \end{document}   
 

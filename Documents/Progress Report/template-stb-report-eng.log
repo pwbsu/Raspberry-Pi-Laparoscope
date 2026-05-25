@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  3 MAR 2026 22:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  13 APR 2026 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/piete/Desktop/Skripsie/Documents/Proposal/template-stb-report-eng
-(c:/Users/piete/Desktop/Skripsie/Documents/Proposal/template-stb-report-eng.tex
+**"c:/Users/piete/Desktop/Skripsie/Documents/Progress Report/template-stb-report-eng"
+(c:/Users/piete/Desktop/Skripsie/Documents/Progress Report/template-stb-report-eng.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/book.cls
@@ -982,6 +982,8 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count352
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count353
+) (c:/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
 ) (c:/texlive/2025/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count354
@@ -1250,7 +1252,8 @@ File: pgfcalendar.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \gtt@right@slot=\count403
 ) (c:/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
- (c:/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
 \ESO@tempdima=\dimen300
 \ESO@tempdimb=\dimen301
@@ -1258,8 +1261,7 @@ Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
 \AM@pagewidth=\dimen302
 \AM@pageheight=\dimen303
 \AM@fboxrule=\dimen304
-
-(c:/texlive/2025/texmf-dist/tex/latex/pdfpages/ppxetex.def
+ (c:/texlive/2025/texmf-dist/tex/latex/pdfpages/ppxetex.def
 File: ppxetex.def 2025/07/23 v0.6g Pdfpages driver for XeTeX (AM)
 )
 \pdfpages@includegraphics@status=\count404
@@ -1395,31 +1397,36 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (c:/texlive/2025/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count426
+\c@@ppsavesec=\count427
+\c@@ppsaveapp=\count428
 )
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 140.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 144.
  (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-front/chap-summary.aux) (./chaps-main/chap-intro.aux) (./chaps-main/chap-literature.aux) (./chaps-main/chap-content-A.aux) (./chaps-main/chap-conclusion.aux) (./chaps-append/chap-Estcost.aux) (./chaps-append/chap-GA.aux))
 \openout1 = `template-stb-report-eng.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 144.
+LaTeX Font Info:    ... okay on input line 144.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1462,26 +1469,26 @@ File: stb-logo-vert.pdf Graphic file (type pdf)
 (c:/texlive/2025/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 140.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 144.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 140.
+Package hyperref Info: Link coloring ON on input line 144.
  (./template-stb-report-eng.out) (./template-stb-report-eng.out)
 \@outlinefile=\write4
 \openout4 = `template-stb-report-eng.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 140.
-Package microtype Info: Applying patch `item' on input line 140.
-Package microtype Info: Applying patch `toc' on input line 140.
-Package microtype Info: Applying patch `eqnum' on input line 140.
+LaTeX Info: Redefining \microtypecontext on input line 144.
+Package microtype Info: Applying patch `item' on input line 144.
+Package microtype Info: Applying patch `toc' on input line 144.
+Package microtype Info: Applying patch `eqnum' on input line 144.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 140.
+Package microtype Warning: Unable to apply patch `footnote' on input line 144.
 
-Package microtype Info: Applying patch `verbatim' on input line 140.
-LaTeX Info: Redefining \microtypesetup on input line 140.
+Package microtype Info: Applying patch `verbatim' on input line 144.
+LaTeX Info: Redefining \microtypesetup on input line 144.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1496,17 +1503,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 14.40152pt on input line 144.
+(Font)              scaled to size 14.40152pt on input line 148.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 144.
+(Font)              scaled to size 10.00107pt on input line 148.
 LaTeX Font Info:    Font shape `TU/CambriaMath(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 144.
+(Font)              scaled to size 7.00075pt on input line 148.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 144.
+(Font)              scaled to size 14.39845pt on input line 148.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 144.
+(Font)              scaled to size 9.99893pt on input line 148.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 144.
+(Font)              scaled to size 6.99925pt on input line 148.
 [1
 
 
@@ -1582,17 +1589,12 @@ Chapter 1.
 
 
 
-] [2] [3]
-Overfull \hbox (13.00923pt too wide) in paragraph at lines 92--94
-\TU/Cambria(0)/m/n/12 the robot’s capabilities and flaws. However, they do not require expensive medical-
- []
-
-[4]) [5]
+] [2]) [3] [4]
 \openout2 = `chaps-main/chap-literature.aux'.
 
  (./chaps-main/chap-literature.tex
 Chapter 2.
-[6
+[5
 
 
 
@@ -1600,55 +1602,87 @@ Chapter 2.
 ]
 File: figs/Endoscope.png Graphic file (type bmp)
 <figs/Endoscope.png>
- [7]
+ [6]
 File: figs/TIPCAM1 RUBINA.png Graphic file (type bmp)
 <figs/TIPCAM1 RUBINA.png>
- [8]
 File: figs/ENDOEYE 3D 10mm.png Graphic file (type bmp)
 <figs/ENDOEYE 3D 10mm.png>
+ [7]
 File: figs/Da Vinci SP.png Graphic file (type bmp)
 <figs/Da Vinci SP.png>
- [9] [10]
+ [8] [9]
 File: figs/Raspberry Pi Camera Module V3.png Graphic file (type bmp)
 <figs/Raspberry Pi Camera Module V3.png>
- [11] [12]
-Overfull \hbox (34.10602pt too wide) in paragraph at lines 245--246
-\TU/Cambria(0)/m/n/12 This product however does have one flaw. Its focus depth is 1 m to inf.([][]store.arduino.cc[][],
- []
-
-File: figs/Arducam Spy camera.png Graphic file (type bmp)
-<figs/Arducam Spy camera.png>
-File: figs/IADIY camera module.png Graphic file (type bmp)
-<figs/IADIY camera module.png>
-[13]
-Overfull \hbox (4.9694pt too wide) in paragraph at lines 314--327
- [][] 
- []
-
-[14]
-Overfull \hbox (5.70448pt too wide) in paragraph at lines 345--346
-\TU/Cambria(0)/m/n/12 Arduino is used then the ideal language to use is either C or C++. ([][]docs.arduino.cc[][],
- []
-
-[15]) [16]
+ [10]
+File: figs/DF Robot.png Graphic file (type bmp)
+<figs/DF Robot.png>
+File: figs/Vision Meta.png Graphic file (type bmp)
+<figs/Vision Meta.png>
+ [11]
+File: figs/LED.png Graphic file (type bmp)
+<figs/LED.png>
+ [12] [13]) [14]
 \openout2 = `chaps-main/chap-content-A.aux'.
 
  (./chaps-main/chap-content-A.tex
 Chapter 3.
-[17
+[15
 
 
 
 
-] [18] [19] [20] [21]
+] [16]
+./chaps-main/chap-content-A.tex:198: ignored error: Infinite glue shrinkage found in box being split [17]
+./chaps-main/chap-content-A.tex:198: ignored error: Infinite glue shrinkage found in box being split [18]
+Overfull \hbox (4.53716pt too wide) in paragraph at lines 246--247
+[]|\TU/Cambria(0)/m/n/12 worldstandards.eu| 
+ []
+
+File: figs/System Boundary.png Graphic file (type bmp)
+<figs/System Boundary.png>
+[19]
+Overfull \hbox (5.73042pt too wide) in alignment at lines 362--373
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.73042pt too wide) in alignment at lines 373--381
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.73042pt too wide) in alignment at lines 381--387
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.73042pt too wide) in alignment at lines 387--390
+ [] [] [] 
+ []
+
+
+Overfull \hbox (5.73042pt too wide) in alignment at lines 390--432
+ [] [] [] 
+ []
+
+./chaps-main/chap-content-A.tex:432: ignored error: Infinite glue shrinkage found in box being split [20]
+./chaps-main/chap-content-A.tex:584: ignored error: Infinite glue shrinkage found in box being split [21] [22] [23]
+File: figs/Concept 1.png Graphic file (type bmp)
+<figs/Concept 1.png>
+File: figs/Concept 2.png Graphic file (type bmp)
+<figs/Concept 2.png>
+ [24]
+File: figs/Concept 3.png Graphic file (type bmp)
+<figs/Concept 3.png>
+ [25] [26] [27] [28]
 File: gantt_chart.pdf Graphic file (type pdf)
 <use gantt_chart.pdf, page 10>
- [22]) [23]
+ [29]) [30]
 \openout2 = `chaps-main/chap-conclusion.aux'.
 
  (./chaps-main/chap-conclusion.tex
 Chapter 4.
-) [24
+) [31
 
 
 
@@ -1672,59 +1706,44 @@ LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
 (Font)              scaled to size 7.99915pt on input line 28.
 LaTeX Font Info:    Font shape `TU/CambriaMath(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 28.
-
-Overfull \hbox (700.71645pt too wide) in paragraph at lines 23--29
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-[25
+ [32
 
 
 
 
-]
-Overfull \hbox (1.09283pt too wide) in paragraph at lines 127--131
-\TU/Cambria(0)/m/n/10.95 Available at: [][]$[][][][][] [] [] [] [][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[][] 
- []
-
-[26]
-Overfull \hbox (108.62473pt too wide) in paragraph at lines 184--189
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-) [27]
+]) [33]
 \openout2 = `chaps-append/chap-Estcost.aux'.
 
- (./chaps-append/chap-Estcost.tex [28
+ (./chaps-append/chap-Estcost.tex [34
 
 
-] [29
+] [35
 
 ])
 \openout2 = `chaps-append/chap-GA.aux'.
 
  (./chaps-append/chap-GA.tex
-./chaps-append/chap-GA.tex:69: ignored error: Infinite glue shrinkage found in box being split [30
+./chaps-append/chap-GA.tex:72: ignored error: Infinite glue shrinkage found in box being split [36
 
 
 
 
 
-]) [31] (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-front/chap-summary.aux) (./chaps-main/chap-intro.aux) (./chaps-main/chap-literature.aux) (./chaps-main/chap-content-A.aux) (./chaps-main/chap-conclusion.aux) (./chaps-append/chap-Estcost.aux) (./chaps-append/chap-GA.aux))
+]) [37] (./template-stb-report-eng.aux (./chaps-front/chap-plagiarism.aux) (./chaps-front/chap-AIdecleration.aux) (./chaps-front/chap-summary.aux) (./chaps-main/chap-intro.aux) (./chaps-main/chap-literature.aux) (./chaps-main/chap-content-A.aux) (./chaps-main/chap-conclusion.aux) (./chaps-append/chap-Estcost.aux) (./chaps-append/chap-GA.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `template-stb-report-eng.out' has not changed.
-(rerunfilecheck)             Checksum: CC5F401808A828F3285FD742C71070E6;7645.
+(rerunfilecheck)             Checksum: 7EF213119993AB1E200556B67F762D92;7487.
  ) 
 Here is how much of TeX's memory you used:
- 38102 strings out of 468174
- 804974 string characters out of 5436827
- 1349668 words of memory out of 5000000
- 66165 multiletter control sequences out of 15000+600000
+ 38285 strings out of 468174
+ 808231 string characters out of 5436827
+ 1352490 words of memory out of 5000000
+ 66336 multiletter control sequences out of 15000+600000
  633194 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,17n,115p,1067b,1210s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,115p,1076b,1196s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on template-stb-report-eng.pdf (39 pages).
+Output written on template-stb-report-eng.pdf (45 pages).

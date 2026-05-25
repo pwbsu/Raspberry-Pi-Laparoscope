@@ -2,16 +2,19 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Raspberry Pi SBCs.\citep {RP-P}}}{10}{table.caption.13}%
-\contentsline {table}{\numberline {2.2}{\ignorespaces Arduino SBCs. \citep {A-P}}}{11}{table.caption.14}%
-\contentsline {table}{\numberline {2.3}{\ignorespaces Leopard Imaging camera modules.\citep {LI-P}}}{12}{table.caption.16}%
-\contentsline {table}{\numberline {2.4}{\ignorespaces IADIY endoscopic camera modules. \citep {I-E}}}{14}{table.caption.19}%
-\contentsline {table}{\numberline {2.5}{\ignorespaces SincereFirst endoscopic camera modules\citep {SF-CM}}}{14}{table.caption.20}%
-\contentsline {table}{\numberline {2.6}{\ignorespaces Camemake endoscopic camera modules. \citep {CM-ECM}}}{14}{table.caption.21}%
+\contentsline {table}{\numberline {2.1}{\ignorespaces Raspberry Pi SBCs.\citep {RP-P}}}{9}{table.caption.13}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Arduino SBCs. \citep {A-P}}}{10}{table.caption.14}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces DF Robot compared to Vision Meta.}}{11}{table.caption.16}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces List of illumination hardware. \citep {MR-P}}}{12}{table.caption.18}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Stakeholder Analysis}}{17}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Design Independent Parameters}}{19}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Functional Requirements}}{20}{table.3.3}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Non-Functional Requirements}}{20}{table.3.4}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Functional Requirements and Technical Performance Measures}}{21}{table.3.5}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {.1}{\ignorespaces Estimated Cost per Activity}}{35}{table.caption.27}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {.1}{\ignorespaces Estimated Cost per Activity}}{29}{table.caption.25}%
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {.2}{\ignorespaces GA self-assessment}}{31}{table.Alph0.2}%
+\contentsline {table}{\numberline {.2}{\ignorespaces GA self-assessment}}{37}{table.1..2}%

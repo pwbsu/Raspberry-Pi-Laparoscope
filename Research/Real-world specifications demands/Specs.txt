@@ -1,0 +1,39 @@
+Optical design and system engineering of a multiresolution foveated laparoscope
+
+Standard laparoscope fov: 70°
+Standard laparoscope insertion length:300 mm
+Standard laparoscope working distance: 50 mm
+Standard laparoscope Visible surgical area: 56 mm x 42 mm
+Standard laparoscope spatial resolution: 2.1 line pairs per millimetre
+
+Developed laparoscope fov: 80° and 26°
+Developed laparoscope insertion length: 300 mm
+Developed laparoscope working distance: 120 mm
+Developed laparoscope visible surgical area: 160 mm x 120 mm and 53 mm x 40 mm
+Developed laparoscope spatial resolution: 2 lp/mm and 6 lp/mm
+
+
+High resolution, programmable aperture light field laparoscope for quantitative depth mapping
+
+Standard laparoscope fov: 60°
+
+Nominal working distance: 50 mm
+
+Your complete guide to surgical lighting - BFW (Open surgery)
+
+IEC surgical lights should provide 40 000 - 160 000 LUX
+Luminance - amount of light falling in the surgical field in square meters (LUX)
+
+Colour temperature: 3 000° - 6 700° Kelvin
+Colour rendering: 85 - 100 Ra
+
+Towards better lighting recommendations for open surgery
+
+Suggested luminance: 50 000 - 100 000 lux
+
+Use of LED's in Endoscopy and laparoscopy
+
+LED can produce 1 000 000 lux
+
+
+

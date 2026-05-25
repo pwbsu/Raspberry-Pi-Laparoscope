@@ -1,0 +1,23 @@
+Camera Specifications:
+
+Overall Dimension: Ø 3.5 mm
+
+Resolution: 1 MP (1280 x 720 @ 25 fps)
+
+Field of View angle: 90°
+
+Depth Focus: 5 mm - 100 mm
+
+Cost with LED and encasing: $ 96
+
+Cost without LED and encasing: $ 81
+
+Delivery: $ 81
+
+Connection: USB
+
+Separated design - avoids overheating at the camera top
+
+Integrated Model Cost without LED and encasing: $ 45
+
+Software: AMCap

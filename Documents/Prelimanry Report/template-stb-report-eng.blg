@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template-stb-report-eng.aux
+The style file: stb-bib-eng-a.bst
+A level-1 auxiliary file: chaps-front/chap-plagiarism.aux
+A level-1 auxiliary file: chaps-front/chap-AIdecleration.aux
+A level-1 auxiliary file: chaps-front/chap-summary.aux
+A level-1 auxiliary file: chaps-main/chap-intro.aux
+A level-1 auxiliary file: chaps-main/chap-literature.aux
+A level-1 auxiliary file: chaps-main/chap-design.aux
+A level-1 auxiliary file: chaps-main/chap-heat.aux
+A level-1 auxiliary file: chaps-main/chap-test.aux
+A level-1 auxiliary file: chaps-main/chap-conclusion.aux
+A level-1 auxiliary file: chaps-append/chap-schedule.aux
+A level-1 auxiliary file: chaps-append/chap-Estcost.aux
+A level-1 auxiliary file: chaps-append/chap-GA.aux
+A level-1 auxiliary file: chaps-append/chap-drawing.aux
+Database file #1: bib/bib-sample.bib
+Warning--entry type for "USP-1" isn't style-file defined
+--line 368 of file bib/bib-sample.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 28 entries,
+            3324 wiz_defined-function locations,
+            816 strings with 9489 characters,
+and the built_in function-call counts, 16637 in all, are:
+= -- 1307
+> -- 432
+< -- 34
++ -- 177
+- -- 141
+* -- 1394
+:= -- 2347
+add.period$ -- 85
+call.type$ -- 28
+change.case$ -- 207
+chr.to.int$ -- 24
+cite$ -- 28
+duplicate$ -- 1562
+empty$ -- 1480
+format.name$ -- 273
+if$ -- 3253
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 209
+newline$ -- 184
+num.names$ -- 112
+pop$ -- 480
+preamble$ -- 1
+purify$ -- 159
+quote$ -- 0
+skip$ -- 475
+stack$ -- 0
+substring$ -- 796
+swap$ -- 632
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 249
+warning$ -- 0
+while$ -- 165
+width$ -- 0
+write$ -- 386
+(There was 1 warning)

@@ -1,0 +1,12 @@
+Heat Pipe:
+
+https://za.rs-online.com/web/p/heatsinks/8670890 (100 mm)
+https://za.rs-online.com/web/p/heatsinks/8670903 (200 mm)
+https://za.rs-online.com/web/p/heatsinks/8670907 (250 mm)
+
+
+The heat pipe needs to be insulated with a sleeve to prevent the outer casing from heating up. The PTFE heat-shrink tube will perform this role. The sleeve should be carefully applied. If too much heat is applied, the heat pipes will be damaged. Here is the link to the PTFE heat-shrink tubing: https://za.rs-online.com/web/p/heat-shrink-tubing/2345956.
+The heat pipe should be secured to the heat sinks. This will be achieved by drilling holes in 2 heat sinks that will sandwich the heat pipe. Soldering will keep it secure at the end of the heat sinks, with heat paste to ensure lower resistance. Here are the links to the heat sinks: https://za.rs-online.com/web/p/heatsinks/1846747
+Two heat pipes need to be connected to achieve the working distance of 300 mm. Therefore, a copper coupling block will need to be manufactured. The copper pipe will be soldered to both ends of the heat pipes. Thermal paste will help with the heat conduction.
+The heat pipe needs to be connected to the camera module as well as the LED assembly, while bypassing the PCB of the camera module. The simplest method is to construct a copper coupler block that can connect with both pieces.
+Epoxy will be required to connect all mechanical pieces to each other. The best-performing epoxy will be selected to connect all the different components.

@@ -1,0 +1,244 @@
+\begin{thebibliography}{28}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\edef\AFRstr{\string afrikaans}
+\ifx\AFRstr\languagename
+   \input{stb-bib.afr}%
+ \else
+   \input{stb-bib.eng}%
+\fi
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{{ArduCam}}(2020)}]{AC-RP}
+\bibnamefont{{ArduCam}} (2020).
+\newblock \emph{Arducam 12MP$\times$2 synchronized stereo camera bundle kit for
+  Raspberry Pi and Pi Zero, two 12.3MP IMX477 camera modules with CS lens and
+  ArduCam CamArray stereo camera HAT}.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.arducam.com/arducam-12mp2-
+  synchronized-stereo-camera-bundle-kit-for-
+  raspberry-pi-two-12-3mp-imx477-camera-modules-
+  with-cs-lens-and-arducam-camarray-stereo- camera-hat.html}
+
+\bibitem[{\citenamefont{{ArduCAM}}(2022)}]{GH-AA}
+\bibnamefont{{ArduCAM}} (2022).
+\newblock {ArduCAM/Arduino}.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://github.com/ArduCAM/Arduino}
+
+\bibitem[{\citenamefont{{Arduino AG}}(2026{\natexlab{\emph{a}}})}]{A-DOC}
+\bibnamefont{{Arduino AG}} (2026{\natexlab{\emph{a}}}).
+\newblock Language reference.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://docs.arduino.cc/language-reference/ #structure}
+
+\bibitem[{\citenamefont{{Arduino AG}}(2026{\natexlab{\emph{b}}})}]{A-P}
+\bibnamefont{{Arduino AG}} (2026{\natexlab{\emph{b}}}).
+\newblock Products.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://store.arduino.cc/products}
+
+\bibitem[{\citenamefont{Buia} \emph{\bbletal{}}(2015)\citenamefont{Buia},
+  \citenamefont{Stockhausen} \protect\BIBand{}
+  \citenamefont{Hanisch}}]{WJM-2015}
+\bibnamefont{Buia}, \bibfnamefont{A.}, \bibnamefont{Stockhausen},
+  \bibfnamefont{F.} \protect\BIBand{} \bibnamefont{Hanisch}, \bibfnamefont{E.}
+  (2015).
+\newblock Laparoscopic surgery: A qualified systematic review.
+\newblock \emph{World Journal of Methodology}, \bblvol{}~5, \bblno{}~4,
+  \bblpp{} 238--254.
+
+\bibitem[{\citenamefont{{Cambridge in
+  Colour}}(2020{\natexlab{\emph{a}}})}]{CC-DCS}
+\bibnamefont{{Cambridge in Colour}} (2020{\natexlab{\emph{a}}}).
+\newblock Camera exposure.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.cambridgeincolour.com/tutorials/
+  camera-exposure.htm}
+
+\bibitem[{\citenamefont{{Cambridge in
+  Colour}}(2020{\natexlab{\emph{b}}})}]{CC-CE}
+\bibnamefont{{Cambridge in Colour}} (2020{\natexlab{\emph{b}}}).
+\newblock Digital camera sensors.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.cambridgeincolour.com/tutorials/
+  camera-sensors.htm}
+
+\bibitem[{\citenamefont{{EBME and Clinical Engineering
+  Articles}}(2026)}]{EBME-2026}
+\bibnamefont{{EBME and Clinical Engineering Articles}} (2026).
+\newblock Endoscope design and assembly.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.ebme.co.uk/articles/clinical-
+  engineering/endoscope-design-and-assembly}
+
+\bibitem[{\citenamefont{Ibrahim} \emph{\bbletal{}}(2021)\citenamefont{Ibrahim},
+  \citenamefont{Ulrich}, \citenamefont{Liselotte}, \citenamefont{Julian},
+  \citenamefont{Nicolai}, \citenamefont{Matthias}, \citenamefont{Georgios},
+  \citenamefont{{Antonio Simone}} \protect\BIBand{}
+  \citenamefont{Damaris}}]{FIS-2021}
+\bibnamefont{Ibrahim}, \bibfnamefont{A.}, \bibnamefont{Ulrich},
+  \bibfnamefont{M.}, \bibnamefont{Liselotte}, \bibfnamefont{M.},
+  \bibnamefont{Julian}, \bibfnamefont{P.}, \bibnamefont{Nicolai},
+  \bibfnamefont{M.}, \bibnamefont{Matthias}, \bibfnamefont{B.},
+  \bibnamefont{Georgios}, \bibfnamefont{G.}, \bibnamefont{{Antonio Simone}},
+  \bibfnamefont{L.} \protect\BIBand{} \bibnamefont{Damaris}, \bibfnamefont{F.}
+  (2021).
+\newblock The development of laparoscopy --- a historical overview.
+\newblock \emph{Frontiers in Surgery}, \bblvol{}~8.
+
+\bibitem[{\citenamefont{{International Electrotechnical
+  Commission}}(2021)}]{IEC}
+\bibnamefont{{International Electrotechnical Commission}} (2021).
+\newblock Medical electrical equipment --- part 2-41: Particular requirements
+  for the basic safety and essential performance of surgical luminaires and
+  luminaires for diagnosis.
+\newblock \bbltechrep{} IEC 60601-2-41, International Electrotechnical
+  Commission.
+\newline\bblurlpre\url{https://webstore.iec.ch/en/publication/62677}
+
+\bibitem[{\citenamefont{{International Organization for
+  Standardization}}(2025)}]{ISO}
+\bibnamefont{{International Organization for Standardization}} (2025).
+\newblock Endoscopes --- medical endoscopes and endotherapy devices.
+\newblock \bbltechrep{} ISO 8600-1:2025, International Organization for
+  Standardization.
+
+\bibitem[{\citenamefont{{Intuitive Surgical}}(2026)}]{IS-SP}
+\bibnamefont{{Intuitive Surgical}} (2026).
+\newblock {Da Vinci SP}.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.intuitive.com/en-us/products-and-
+  services/da-vinci/sp}
+
+\bibitem[{\citenamefont{{Karl Storz
+  Endoskope}}(2026{\natexlab{\emph{a}}})}]{KSE-HP}
+\bibnamefont{{Karl Storz Endoskope}} (2026{\natexlab{\emph{a}}}).
+\newblock Home page.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.karlstorz.com/de/en/index.htm}
+
+\bibitem[{\citenamefont{{Karl Storz
+  Endoskope}}(2026{\natexlab{\emph{b}}})}]{KSE-TR}
+\bibnamefont{{Karl Storz Endoskope}} (2026{\natexlab{\emph{b}}}).
+\newblock {TIPCAM1 RUBINA}.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.karlstorz.com/za/en/product-
+  detail-page.htm?productID=1000108799}
+
+\bibitem[{\citenamefont{{Leopard Imaging}}(2026)}]{LI-P}
+\bibnamefont{{Leopard Imaging}} (2026).
+\newblock Hummingbird mobile camera modules.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://leopardimaging.com/hummingbird/}
+
+\bibitem[{\citenamefont{{Micro Robotics (Pty) Ltd}}(2026)}]{MR-P}
+\bibnamefont{{Micro Robotics (Pty) Ltd}} (2026).
+\newblock Home page.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.robotics.org.za/}
+
+\bibitem[{\citenamefont{Morrow}(2026)}]{DM-FOW}
+\bibnamefont{Morrow}, \bibfnamefont{D.} (2026).
+\newblock Ultimate depth of field photography guide 2026.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.davemorrowphotography.com/
+  depth-of-field-photography}
+
+\bibitem[{\citenamefont{{Olympus Corporation}}(2026)}]{OC-E}
+\bibnamefont{{Olympus Corporation}} (2026).
+\newblock {ENDOEYE 3D 10 mm}.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.olympus.com.au/medical/en/
+  Products-and-Solutions/Products/Product/ ENDOEYE-3D-10-mm.html}
+
+\bibitem[{\citenamefont{{Raspberry Pi
+  Ltd}}(2026{\natexlab{\emph{a}}})}]{RP-DOC}
+\bibnamefont{{Raspberry Pi Ltd}} (2026{\natexlab{\emph{a}}}).
+\newblock Documentation.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.raspberrypi.com/documentation/}
+
+\bibitem[{\citenamefont{{Raspberry Pi Ltd}}(2026{\natexlab{\emph{b}}})}]{RP-P}
+\bibnamefont{{Raspberry Pi Ltd}} (2026{\natexlab{\emph{b}}}).
+\newblock Products.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.raspberrypi.com/products/}
+
+\bibitem[{\citenamefont{Schrader}
+  \emph{\bbletal{}}(2016)\citenamefont{Schrader}, \citenamefont{Oginski}
+  \protect\BIBand{} \citenamefont{Brueggemann}}]{USP-1}
+\bibnamefont{Schrader}, \bibfnamefont{S.}, \bibnamefont{Oginski},
+  \bibfnamefont{S.} \protect\BIBand{} \bibnamefont{Brueggemann},
+  \bibfnamefont{D.} (2016).
+\newblock [endoscope].
+\newblock (Patent: US9510744B2). [Online]. Available:
+  https://patents.google.com/ patent/US9510744B2 [25/05/2026].
+
+\bibitem[{\citenamefont{{Shenzhen VisionMeta Technology Co.,
+  Ltd}}(2026)}]{VM-P}
+\bibnamefont{{Shenzhen VisionMeta Technology Co., Ltd}} (2026).
+\newblock 1{MP} 3.3/3.5/3.9mm {OV9734} {HD} endoscope medical camera module.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.visionmeta.com/product-category/
+  feature/endoscope/endoscope-diameter/ 3-5mm-endoscope/}
+
+\bibitem[{\citenamefont{{Stellenbosch University}}(2026)}]{STEM}
+\bibnamefont{{Stellenbosch University}} (2026).
+\newblock Study guide.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://stemlearn.sun.ac.za/my/}
+
+\bibitem[{\citenamefont{Subido} \emph{\bbletal{}}(2018)\citenamefont{Subido},
+  \citenamefont{Pacis} \protect\BIBand{} \citenamefont{Bugtai}}]{AIP-2018}
+\bibnamefont{Subido}, \bibfnamefont{E.}, \bibnamefont{Pacis},
+  \bibfnamefont{D.M.M.} \protect\BIBand{} \bibnamefont{Bugtai},
+  \bibfnamefont{N.T.} (2018).
+\newblock Recent technological advancements in laparoscopic surgical
+  instruments.
+\newblock \emph{AIP Conference Proceedings}, \bblvol{} 1933, \bblno{}~1.
+
+\bibitem[{\citenamefont{{Weather \& Climate}}(2026)}]{WC}
+\bibnamefont{{Weather \& Climate}} (2026).
+\newblock Stellenbosch temperature by month.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://weather-and-climate.com/average-
+  monthly-min-max-Temperature,stellenbosch, South-Africa}
+
+\bibitem[{\citenamefont{{World Standards}}(2025)}]{WS}
+\bibnamefont{{World Standards}} (2025).
+\newblock South africa --- power plug, socket \& mains voltage in south africa.
+\newblock [Online]. Accessed: [25/05/2026].
+\newline\bblurlpre\url{https://www.worldstandards.eu/electricity/
+  plug-voltage-by-country/south-africa/}
+
+\bibitem[{\citenamefont{Xiao} \emph{\bbletal{}}(2014)\citenamefont{Xiao},
+  \citenamefont{Jakimowicz}, \citenamefont{Albayrak}, \citenamefont{Buzink},
+  \citenamefont{Botden} \protect\BIBand{} \citenamefont{Goossens}}]{JSE-2014}
+\bibnamefont{Xiao}, \bibfnamefont{D.}, \bibnamefont{Jakimowicz},
+  \bibfnamefont{J.J.}, \bibnamefont{Albayrak}, \bibfnamefont{A.},
+  \bibnamefont{Buzink}, \bibfnamefont{S.N.}, \bibnamefont{Botden},
+  \bibfnamefont{S.M.B.I.} \protect\BIBand{} \bibnamefont{Goossens},
+  \bibfnamefont{R.H.M.} (2014).
+\newblock Face, content, and construct validity of a novel portable ergonomic
+  simulator for basic laparoscopic skills.
+\newblock \emph{Journal of Surgical Education}, \bblvol{}~71, \bblno{}~1,
+  \bblpp{} 65--72.
+
+\bibitem[{\citenamefont{{Zumtobel}}(2018)}]{TLH}
+\bibnamefont{{Zumtobel}} (2018).
+\newblock \emph{The Lighting Handbook}.
+\newblock Zumtobel.
+\newblock [Online]. Available: [URL] [25/05/2026].
+
+\end{thebibliography}

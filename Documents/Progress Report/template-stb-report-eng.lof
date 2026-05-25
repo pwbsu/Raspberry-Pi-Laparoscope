@@ -2,15 +2,19 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Original laparoscope design. \citep {EBME-2026}}}{7}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Figure of the TIPCAM1 RUBINA. \citep {KSE-TR}}}{8}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Figure of the ENDOEYE 3D 10 mm. \citep {OC-E}}}{9}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Figure of the Da Vinci SP. \citep {IS-SP}}}{9}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Figure of Raspberry Pi Camera Module 3}}{12}{figure.caption.15}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Figure of Arducam spy camera module.\citep {A-P}}}{13}{figure.caption.17}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Figure of IADIY camera module.\citep {I-E}}}{13}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Original laparoscope design. \citep {EBME-2026}}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Figure of the TIPCAM1 RUBINA. \citep {KSE-TR}}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Figure of the ENDOEYE 3D 10 mm. \citep {OC-E}}}{8}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Figure of the Da Vinci SP. \citep {IS-SP}}}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Figure of Raspberry Pi Camera Module 3. \citep {RP-DOC}}}{11}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Illustration of camera modules}}{12}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Figure of LED SMD 0603.\citep {MR-P}}}{13}{figure.caption.19}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Skripsie Gantt Chart}}{22}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces System Boundary}}{20}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Concept 1: Bended shaft design}}{24}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Concept 2: Tilted lens design}}{25}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Concept 3: Adjustable viewing angle design}}{25}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Skripsie Gantt Chart}}{29}{figure.caption.24}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

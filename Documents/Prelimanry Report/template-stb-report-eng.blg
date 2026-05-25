@@ -20,45 +20,45 @@ Warning--entry type for "USP-1" isn't style-file defined
 --line 368 of file bib/bib-sample.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 28 entries,
+You've used 29 entries,
             3324 wiz_defined-function locations,
-            816 strings with 9489 characters,
-and the built_in function-call counts, 16637 in all, are:
-= -- 1307
-> -- 432
-< -- 34
-+ -- 177
-- -- 141
-* -- 1394
-:= -- 2347
-add.period$ -- 85
-call.type$ -- 28
-change.case$ -- 207
-chr.to.int$ -- 24
-cite$ -- 28
-duplicate$ -- 1562
-empty$ -- 1480
-format.name$ -- 273
-if$ -- 3253
+            822 strings with 9560 characters,
+and the built_in function-call counts, 17104 in all, are:
+= -- 1345
+> -- 442
+< -- 35
++ -- 181
+- -- 144
+* -- 1426
+:= -- 2419
+add.period$ -- 88
+call.type$ -- 29
+change.case$ -- 214
+chr.to.int$ -- 25
+cite$ -- 29
+duplicate$ -- 1604
+empty$ -- 1522
+format.name$ -- 279
+if$ -- 3344
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 209
-newline$ -- 184
-num.names$ -- 112
-pop$ -- 480
+missing$ -- 215
+newline$ -- 190
+num.names$ -- 116
+pop$ -- 494
 preamble$ -- 1
-purify$ -- 159
+purify$ -- 164
 quote$ -- 0
-skip$ -- 475
+skip$ -- 491
 stack$ -- 0
-substring$ -- 796
-swap$ -- 632
+substring$ -- 817
+swap$ -- 646
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 249
+type$ -- 258
 warning$ -- 0
-while$ -- 165
+while$ -- 170
 width$ -- 0
-write$ -- 386
+write$ -- 399
 (There was 1 warning)

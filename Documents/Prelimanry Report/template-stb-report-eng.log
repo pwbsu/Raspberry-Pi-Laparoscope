@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  25 MAY 2026 11:27
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.2.26)  25 MAY 2026 20:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1601,23 +1601,22 @@ File: figs/Viewing Angle.png Graphic file (type bmp)
 
  (./chaps-main/chap-literature.tex
 Chapter 2.
+File: figs/Endoscope.png Graphic file (type bmp)
+<figs/Endoscope.png>
 [5
 
 
 
 
 ]
-File: figs/Endoscope.png Graphic file (type bmp)
-<figs/Endoscope.png>
- [6]
 File: figs/TIPCAM1 RUBINA.png Graphic file (type bmp)
 <figs/TIPCAM1 RUBINA.png>
+ [6]
 File: figs/ENDOEYE 3D 10mm.png Graphic file (type bmp)
 <figs/ENDOEYE 3D 10mm.png>
- [7]
 File: figs/Da Vinci SP.png Graphic file (type bmp)
 <figs/Da Vinci SP.png>
- [8] [9]
+ [7] [8] [9]
 File: figs/Raspberry Pi Camera Module V3.png Graphic file (type bmp)
 <figs/Raspberry Pi Camera Module V3.png>
  [10]
@@ -1628,6 +1627,8 @@ File: figs/Vision Meta.png Graphic file (type bmp)
  [11]
 File: figs/LED.png Graphic file (type bmp)
 <figs/LED.png>
+File: figs/Heat Pipe.png Graphic file (type bmp)
+<figs/Heat Pipe.png>
  [12] [13]) [14]
 \openout2 = `chaps-main/chap-design.aux'.
 
@@ -1668,10 +1669,14 @@ Overfull \hbox (5.73042pt too wide) in alignment at lines 357--399
  []
 
 [19]
-./chaps-main/chap-design.tex:555: ignored error: Infinite glue shrinkage found in box being split [20] [21]
+./chaps-main/chap-design.tex:561: ignored error: Infinite glue shrinkage found in box being split [20] [21]
+Overfull \hbox (5.75578pt too wide) in paragraph at lines 590--591
+\TU/Cambria(0)/m/n/12 fov, and multiplying that value by how many pixels a millimetre area should
+ []
+
 File: figs/Concept 1.png Graphic file (type bmp)
 <figs/Concept 1.png>
- [22]
+[22]
 File: figs/Concept 2.png Graphic file (type bmp)
 <figs/Concept 2.png>
  [23]
@@ -1714,12 +1719,7 @@ File: figs/S2.jpg Graphic file (type bmp)
 [31] [32]
 File: figs/Heat_Dissipation.jpg Graphic file (type bmp)
 <figs/Heat_Dissipation.jpg>
-)
-Overfull \hbox (11.89925pt too wide) in paragraph at lines 144--176
-\TU/Cambria(0)/m/n/12 The functionality tests are the test required to be performed to determine whether
- []
-
-[33]
+) [33]
 \openout2 = `chaps-main/chap-conclusion.aux'.
 
  (./chaps-main/chap-conclusion.tex
@@ -1806,15 +1806,15 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `template-stb-report-eng.out' has not changed.
-(rerunfilecheck)             Checksum: E3034C5BC29D72DD6AD650EC9B44A357;5920.
+(rerunfilecheck)             Checksum: A60E103E449ED2F7F95CE6CF737E79A8;5986.
  ) 
 Here is how much of TeX's memory you used:
- 38521 strings out of 468174
- 814687 string characters out of 5436827
- 1355111 words of memory out of 5000000
- 66532 multiletter control sequences out of 15000+600000
+ 38532 strings out of 468174
+ 814916 string characters out of 5436827
+ 1355272 words of memory out of 5000000
+ 66542 multiletter control sequences out of 15000+600000
  633194 words of font info for 132 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,17n,115p,1078b,1214s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,115p,1078b,1210s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on template-stb-report-eng.pdf (53 pages).

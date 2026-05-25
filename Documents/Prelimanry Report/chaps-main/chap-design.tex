@@ -1,11 +1,11 @@
 \chapter{Design}
 \label{sec:Design}
 
-This chapter of the reports documents the design process for the laparoscope. From determining the design requirement, to concept designs generation, and detail design of the laparoscope. 
+This chapter of the report documents the design process for the laparoscope. From determining the design requirement, to concept design generation, and detail design of the laparoscope.
 
 \section{Design Requirements for Laparoscope}
 
-As mentioned above, this chapter documents the list of requirements that needs to be determined to be able to design a functional laparoscope. These requirements are all listed in the tables below, as well as depicted  in the diagrams below. 
+This section documents the list of requirements that need to be determined to be able to design a functional laparoscope. These requirements are all listed in the tables below, as well as depicted  in the diagrams below. 
 
 \subsection{Stakeholder Analysis}
 
@@ -61,7 +61,7 @@ Prof Schreve &
 Secon-dary & 
 Supervisor of the project & 
 All stages & 
-The functional development of the system, and the engineering 
+The functional development of the system and the engineering 
 design methodology followed to develop the system \\
 \hline
 
@@ -89,7 +89,7 @@ Technical specifications of the hardware components \\
 SH\_05 & 
 Struc-tural manu-factur-ers & 
 Secon-dary & 
-Personnel responsible for the construction of structural 
+Personnel responsible for the construction of the structural 
 components of the system & 
 Design, Installation & 
 Technical specifications of the structural components \\
@@ -114,7 +114,7 @@ Future personal that will use the developed system or select
 components of the system to perform further researchers & 
 Mainte-nance, Operation & 
 The technical conditions of the developed system, the 
-technical conditions of systems hardware components \\
+technical conditions of the system's hardware components \\
 \hline
 
 % ---- SH_08 ----
@@ -134,7 +134,7 @@ Design team &
 Secon-dary & 
 Personnel responsible for the design of the entire system & 
 Design & 
-System requirement and hardware physical properties \\
+System requirements and hardware physical properties \\
 \hline
 
 % ---- SH_10 ----
@@ -150,7 +150,7 @@ System requirements and hardware software capabilities \\
 SH\_11 & 
 Poten-tial student attendees & 
 Primary & 
-Potential students that will use the system to perform 
+Potential students who will use the system to perform 
 surgical procedures & 
 Opera-tion & 
 Easy operations and usability of the system \\
@@ -161,7 +161,7 @@ Easy operations and usability of the system \\
 
 \subsection{Design Independent Requirements}
 
-The design independent requirements (DIP) requirements for the laparoscope can be seen in Table \ref{tab:DIP} below. Additionally, how the DIPs interface from the narrower system of interest (NSOI) with the wider system of interest (WSOI) and environment can be seen in Figure \ref{fig:System Boundary} below:
+The design independent requirements (DIP) for the laparoscope can be seen in Table \ref{tab:DIP} below. Additionally, how the DIPs interface from the narrower system of interest (NSOI) with the wider system of interest (WSOI) and environment can be seen in Figure \ref{fig:System Boundary} below:
 
 \begin{longtable}{|p{0.12\textwidth}|p{0.35\textwidth}|p{0.15\textwidth}|p{0.25\textwidth}|}
 
@@ -224,7 +224,7 @@ R 6000.00 &
 \hline
 
 % ---- DIP_05 ----
-DIP\_05 \footnote{There is not a standard for the required illuminance to be produced by a laparoscope or an endoscope. However, operating rooms require an illuminance value between 40 000 and 160 000 LUX, which is the value that will be designed for.} & 
+DIP\_05 \footnote{There is no standard for the required illuminance to be produced by a laparoscope or an endoscope. However, operating rooms require an illuminance value between 40~000 and 160~000~LUX, which is the value that will be designed for.} & 
 Laparoscope illuminance produced & 
 40 000 LUX - 160 000 LUX & 
 \citet{IEC} \\
@@ -263,7 +263,7 @@ Frequency of real-time \mbox{digital} images updates &
 
 
 \subsection{Functional and Non-Functional Requirements}
-Below in Table \ref{tab:FR} is the functional requirements for the laparoscope. Consequently, the Table \ref{tab:NFR} contains the non-functional requirements.
+Below in Table \ref{tab:FR} are the functional requirements for the laparoscope. Consequently, the Table \ref{tab:NFR} contains the non-functional requirements.
 
 \begin{longtable}{|p{0.10\textwidth}|p{0.55\textwidth}|p{0.25\textwidth}|}
 
@@ -384,7 +384,7 @@ replaced \\
 % ---- NFR_04 ----
 NFR\_04 & 
 Adjustable & 
-The system design should be developed that distinct 
+The system design should be developed so that distinct 
 features can be changed without creating large 
 external costs \\
 \hline
@@ -392,7 +392,7 @@ external costs \\
 % ---- NFR_05 ----
 NFR\_05 & 
 Usability & 
-System should be easy to operate for limited-training 
+The system should be easy to operate with limited training 
 users \\
 \hline
 
@@ -464,7 +464,7 @@ $\geq$ 1 GPIO Pin \\
 \multirow{2}{*}{FR\_3.0} & 
 \parbox[t]{\linewidth}{Power \mbox{supply}} & 
 TPM\_04 & 
-System start up cycle duration & 
+System start-up cycle duration & 
 $\leq$ 2 s \\
 \cline{3-5}
 
@@ -506,7 +506,7 @@ Focus depth of the camera module &
 \multirow{2}{*}{FR\_4.2} & 
 \parbox[t]{\linewidth}{Configure light \mbox{intensity}} & 
 TPM\_10 & 
-Illumination of system & 
+Illumination of the system & 
 40 000 LUX - 160 000 LUX \\
 \cline{3-5}
 
@@ -517,7 +517,7 @@ $\leq$ 41 $^{\circ}$C \\
 \hline
 
 % ---- FR_4.3 - Capture Digital Image (2 TPMs) ----
-\multirow{2}{*}{FR\_4.3} & 
+\multirow{3}{*}{FR\_4.3} & 
 \parbox[t]{\linewidth}{Capture digital image} & 
 TPM\_12 & 
 Minimum field of view & 
@@ -528,18 +528,24 @@ $\geq$ 70$^{\circ}$ \\
 TPM\_13 & 
 Minimum resolution & 
 460 x 460 pixels \\
+\cline{3-5}
+
+& & 
+TPM\_14 & 
+Minimum frame rate & 
+10 fps \\
 \hline
 
 % ---- FR_5.0 - Display Real-Time Images (2 TPMs) ----
 \multirow{2}{*}{FR\_5.0} & 
 \parbox[t]{\linewidth}{Display real-time images} & 
-TPM\_14 & 
+TPM\_15 & 
 Minimum resolution of display & 
 460 x 460 pixels \\
 \cline{3-5}
 
 & & 
-TPM\_15 & 
+TPM\_16 & 
 Maximum latency & 
 0.5 s \\
 \hline
@@ -547,7 +553,7 @@ Maximum latency &
 % ---- FR_6.0 - Store System Data (1 TPM) ----
 FR\_6.0 & 
 Store system data & 
-TPM\_16 & 
+TPM\_17 & 
 Storage capacity & 
 68.56 GB \\
 \hline
@@ -581,24 +587,26 @@ Storage capacity &
 
     \item\textbf{TPM\_12:} Smallest viewing angle applied to a laparoscopic commercial product is 70°,  while certain laparoscopes has a viewing angle larger than 70°.
 
-    \item\textbf{TPM\_13:} The minimum resolution for the camera module is determined by the first determining the maximum visible seen at the smallest fov, and multiply that value with how many pixels a millimetre area should represent: 
+    \item\textbf{TPM\_13:} The minimum resolution for the camera module is determined by first determining the maximum visible distance seen at the smallest fov, and multiplying that value by how many pixels a millimetre area should represent: 
     \begin{equation}
         Pixel = Focus depth_(max)*sin(fov/2)*2*5 pixels/mm
     \end{equation}
 
-    \item\textbf{TPM\_14:} The minimum resolution of the display is the same as the minimum resolution of the camera.
+    \item\textbf{TPM\_14:} The maximum allowable time between frame is 0.1 S. Therefore, the minimum frame rate of the camera module is 10 fps.
 
-    \item\textbf{TPM\_15:} This value is subject to change based on the different components used for the system. Therefore, it is important to minimize the latency of each component or interaction between different components. 0.5 s is just an absolute maximum latency that will be accepted.
+    \item\textbf{TPM\_15:} The minimum resolution of the display is the same as the minimum resolution of the camera.
 
-    \item\textbf{TPM\_16:} If the minimum resolution an image is 460 x 460 with RGB colour format, then 1 image requires 634.8 KB. (PxP*24/8) If the frame rate is 30 fps and this continued for 60 minutes, then a total space of 68.5584 Gb is required.
+    \item\textbf{TPM\_16:} This value is subject to change based on the different components used for the system. Therefore, it is important to minimize the latency of each component or interaction between different components. 0.5 s is just an absolute maximum latency that will be accepted.
+
+    \item\textbf{TPM\_17:} If the minimum resolution of an image is 460 x 460 with RGB colour format, then 1 image requires 634.8 KB. (PxP*24/8) If the frame rate is 30 fps and this continued for 60 minutes, then a total space of 68.5584 Gb is required.
 
 \end{itemize}
 
 \section{Concept Generation}
 
-For this project three concepts were generated, based on the principle that the design utilizes the DF Robot endoscope, which has the dimensions of Ø8~mm and a total length of 25~mm. This module was chosen, since it is the maximum space required to fit all the necessary PCB and camera assembly to create an endoscope, that still fit within the Ø10~mm hole. Each concept is designed to have a viewing angle of 30°.
+For this project, three concepts were generated, based on the principle that the design utilizes the DF Robot endoscope, which has the dimensions of Ø8~mm and a total length of 25~mm. This module was chosen since it is the maximum space required to fit all the necessary PCB and camera assembly to create an endoscope, which still fits within the Ø10~mm hole. Each concept is designed to have a viewing angle of 30°.
 
-The first concept, relies on bending the shaft that the endoscope camera is attached to. However, the total diameter of the laparoscope within the skin and muscle tissue of the patient should remain under the Ø10~mm limit since the thickness of the muscle and tissue of patients are not all the same, the design has to be made for the worst case scenario, which is for an obese patient around 10~cm. Figure \ref{fig:Concept 1} below illustrates how the design would look like:
+The first concept relies on bending the shaft that the endoscope camera is attached to. However, the total diameter of the laparoscope within the skin and muscle tissue of the patient should remain under the Ø10~mm limit since the thickness of the muscle and tissue of patients is not all the same; the design has to be made for the worst case scenario, which is for an obese patient around 10~cm. Figure \ref{fig:Concept 1} below illustrates how the design would look:
 
 \begin{figure}[H]
     \centering
@@ -607,7 +615,7 @@ The first concept, relies on bending the shaft that the endoscope camera is atta
     \label{fig:Concept 1}
 \end{figure}
 
-The second concept, rely on that the lens assembly is tilted to 30° relative to the axial axis of the laparoscope. This concept, does require careful hardware consideration and positioning, however is a proven method in the industry. Figure \ref{fig:Concept 2} illustrates this design:
+The second concept relies on the fact that the lens assembly is tilted to 30° relative to the axial axis of the laparoscope. This concept does require careful hardware consideration and positioning; however is a proven method in the industry. Figure \ref{fig:Concept 2} illustrates this design:
 
 \begin{figure}[H]
     \centering
@@ -616,7 +624,7 @@ The second concept, rely on that the lens assembly is tilted to 30° relative to
     \label{fig:Concept 2}
 \end{figure}
 
-The last concept, relies on a pulley system, which allows the camera to be tilted at a desired angle by the practitioner, while the operation is being performed. This method relies on fine detail design, but can prove to be beneficial for future research purposes. The final concept is illustrated in Figure \ref{fig:Concept 3} below:
+The last concept relies on a pulley system, which allows the camera to be tilted at a desired angle by the practitioner while the operation is being performed. This method relies on fine detail design, but can prove to be beneficial for future research purposes. The final concept is illustrated in Figure \ref{fig:Concept 3} below:
 
 \begin{figure} [H]
     \centering
@@ -625,34 +633,34 @@ The last concept, relies on a pulley system, which allows the camera to be tilte
     \label{fig:Concept 3}
 \end{figure}
 
-All three concepts mentioned above can be used for the project, since they meet all physical demands of the laparoscope. However, each concept has its defects. Concept one and three both have a defect when their camera is tilted at 30°. When the laparoscope is being rotated, there might be vital information that is missed in the direction of the laparoscope's axial axis, due to the camera lenses not being centred on the axis itself. It can also possibly cause damage to the patients, if the laparoscopes are being turned and accidentally pushed into the patient's internal organs.
+All three concepts mentioned above can be used for the project, since they meet all the physical demands of the laparoscope. However, each concept has its defects. Concepts one and three both have a defect when their camera is tilted at 30°. When the laparoscope is being rotated, there might be vital information that is missed in the direction of the laparoscope's axial axis, due to the camera lenses not being centred on the axis itself. It can also possibly cause damage to the patients if the laparoscopes are turned and accidentally pushed into the patient's internal organs.
 
 Due to the reason stated above, the second concept is the preferred concept that will be further developed.
 
 \section{Detailed Drawing}
 
-Based on the previous section, it was determined to use the tilted camera design. A common problem with laparoscope and endoscope design is the small scale of the design. There is limited commercial products for such small scale design. Consequently, it leads to the design and manufacturing of custom parts that can perform the required duties, with size constraints. This design, however, adds additional complexity with the camera module and light source of the laparoscope being mounted to the tip of the laparoscope. These two components generate heat, which should not be transferred into the "patient's" body. Therefore, the design should account for this by minimizing the total heat transferred into the "patient's" body or by maximizing the total heat transferred through the laparoscope outside the "patient's" body.
+Based on the previous section, it was determined to use the tilted camera design. A common problem with laparoscopes and endoscopes is the small scale of the design. There are limited commercial products for such a small-scale design. Consequently, it leads to the design and manufacturing of custom parts that can perform the required duties, with size constraints. This design, however, adds additional complexity with the camera module and light source of the laparoscope being mounted to the tip of the laparoscope. These two components generate heat, which should not be transferred into the "patient's" body. Therefore, the design should account for this by minimizing the total heat transferred into the "patient's" body or by maximizing the total heat transferred through the laparoscope outside the "patient's" body.
 
-This design does also reduce the complexity of the design, due to placements of the camera module and light source. For conventional laparoscope, either the camera module or light source or both, are placed outside the patients body. This design requires then complex lens assemblies for the camera module to be able to view inside the "patient's" body with the addition of plastic optical fiber cables for the light source.
+This design also reduces the complexity of the design due to the placements of the camera module and light source. For a conventional laparoscope, either the camera module or the light source or both, are placed outside the patients body. This design requires the complex lens assemblies for the camera module to be able to view inside the "patient's" body, with the addition of plastic optical fiber cables for the light source.
 
 To design for the heat problem, there are two main methods to control the heat dissipation of the camera module and light source:
 
 \begin{itemize}
     \item Actively cool down the heat sources while they are being operated.
-    \item Actively conduct the heat from the heat source, located at the tip, to the base of the laparoscope, where the heat can be easier dissipated.
+    \item Actively conduct the heat from the heat source, located at the tip, to the base of the laparoscope, where the heat can be more easily dissipated.
 \end{itemize}
 
 The first method, however functional, is not a practical solution for this design, due to the size constraints. For this method to work, cold air should be blown to the tip of the laparoscope, while warm air should also be extracted from the tip. Therefore, 2 ventilation tubes should lead down from the handle of the laparoscope to the tip of the laparoscope, while being confined in a Ø~8~mm hole. Additionally, it should provide space for the wiring of the camera module and heat sources.  It is important that air should both be extracted and provided to the tip of the laparoscope, from the handle, and cannot be extracted from or dispersed into the "patient's" body. Otherwise, this design will not function as a medical laparoscope. Due to the limitations stated above, this design is not feasible.
 
-The second method, however, has been accomplished. A patent has been filed with the United States Patent and Trademark Office, (USPTO) which utilized heat pipes to conduct the heat from the light source at the tip of the laparoscope to a heat sink in the handle of the laparoscope. \citep{USP-1} However, this patent is only designed to conduct heat generate by the light source, while the design that will be pursued will also account for the laparoscope camera module heat generation. 
+The second method, however, has been accomplished. A patent has been filed with the United States Patent and Trademark Office (USPTO), which utilizes heat pipes to conduct the heat from the light source at the tip of the laparoscope to a heat sink in the handle of the laparoscope. \citep{USP-1} However, this patent is only designed to conduct heat generate by the light source, while the design that will be pursued will also account for the laparoscope camera module heat generation. 
 
-A critical feature of this design is the physical hardware. Heat pipes and heat sinks are required to be sufficiently conduct the heat as well as properly dissipate the conducted heat safely and efficiently out of the product. Fortunately, RS Components Limited (RS) provides both heat pipes and heat sinks in a wide variety of sizes. Importantly, the smallest diameter heat pipes they sell are 3~mm, at a maximum length of 250~mm. However, TPM\_07 dictates that the working length of the laparoscope should be 300~mm. Therefore, a combination of heat pipes will be required to conduct the generated heat from the tip all the way to the heat sinks, through means of a coupler. 
+A critical feature of this design is the physical hardware. Heat pipes and heat sinks are required to sufficiently conduct the heat as well as properly dissipate the conducted heat safely and efficiently out of the product. Fortunately, RS Components provides both heat pipes and heat sinks in a wide variety of sizes. Importantly, the smallest diameter heat pipes they sell are 3~mm, at a maximum length of 250~mm. However, TPM\_07 dictates that the working length of the laparoscope should be 300~mm. Therefore, a combination of heat pipes will be required to conduct the generated heat from the tip all the way to the heat sinks, through means of a coupler. \citep{RS}
 
-Another coupler is required to attach at the tip of furthest heat pipe from the handle, to be able to conduct the generated heat from the camera module and light source properly to the heat pipes. However, this coupler will require additional modification to account for the PCB of the camera module and light source. It requires a design balance to assure that there is enough material to properly conduct the heat to the heat pipes, while allowing the camera module and light source to operate properly and is not constricted by the design. 
+Another coupler is required to attach at the tip of the furthest heat pipe from the handle, to be able to conduct the generated heat from the camera module and light source properly to the heat pipes. However, this coupler will require additional modification to account for the PCB of the camera module and light source. It requires a design balance to ensure that there is enough material to properly conduct the heat to the heat pipes, while allowing the camera module and light source to operate properly and is not constricted by the design. 
 
-A Stainless steel pipe will be utilized to acts as a cover for the entire laparoscope's working length, keeping everything together and protected. Stainless steel was selected due to it being the only commercial material that is produced with such small dimensions. 
+A Stainless steel pipe will be utilized to act as a cover for the entire laparoscope's working length, keeping everything together and protected. Stainless steel was selected due to its being the only commercial material that is produced with such small dimensions. 
 
-For the handle of the laparoscope, 3D printing was selected to create a custom handle for the laparoscope, due to its ability to create custom components. However, an important decision was made to use acrylonitrile butadiene styrene (ABS) filament, instead of polylactic acid (PLA) filament. ABS filament, although harder to print, has higher temperature tolerances and can withstand mechanical loads better. 
+For the handle of the laparoscope, 3D printing was selected to create a custom handle for the laparoscope, due to its ability to create custom components. However, an important decision was made to use acrylonitrile butadiene styrene (ABS) filament instead of polylactic acid (PLA) filament. ABS filament, although harder to print, has higher temperature tolerances and can withstand mechanical loads better. 
 
 Figure \ref{fig:Full Assembly} below shows the full assembly of the laparoscope, while Figure \ref{fig:Main Assembly}, shows the assembly of the main body of the laparoscope. The full assemblies of these design can be seen in the Appendix \ref{sec:Drawings}, with the drawing tree as well.
 

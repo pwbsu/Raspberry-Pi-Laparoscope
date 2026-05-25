@@ -5,11 +5,12 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Original laparoscope design. \citep {EBME-2026}}}{6}{figure.caption.10}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Figure of the TIPCAM1 RUBINA. \citep {KSE-TR}}}{7}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Figure of the ENDOEYE 3D 10 mm. \citep {OC-E}}}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Figure of the ENDOEYE 3D 10 mm. \citep {OC-E}}}{7}{figure.caption.12}%
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Figure of the Da Vinci SP. \citep {IS-SP}}}{8}{figure.caption.13}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Figure of Raspberry Pi camera module 3. \citep {RP-DOC}}}{11}{figure.caption.16}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Illustration of camera modules}}{12}{figure.caption.18}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Figure of LED SMD 0603. \citep {MR-P}}}{13}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Figure of Raspberry Pi camera module 3. \citep {RP-DOC}}}{10}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Illustration of camera modules}}{11}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Figure of LED SMD 0603. \citep {MR-P}}}{12}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Figure of a heat pipe. \citep {RS}}}{12}{figure.caption.20}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces System boundary}}{18}{figure.caption.21}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Concept 1: Bent shaft design}}{23}{figure.caption.22}%
